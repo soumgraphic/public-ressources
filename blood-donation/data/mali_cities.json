@@ -1,0 +1,2400 @@
+[
+  {
+    "uid": "IUkcQ8Oby7nnD4veAB9B",
+    "description": "Commune 5, Bamako",
+    "name": "Torokorobougou",
+    "type": "district",
+    "headUid": "municipalities/DLNCNv3RFdbbyGzd7eQU",
+    "geolocationPoint": {
+      "latitude": 12.6126666,
+      "longitude": -8.0036043
+    }
+  },
+  {
+    "uid": "KRndfukXbgmkySWXT6Th",
+    "description": "Commune 5, Bamako",
+    "name": "Badalabougou",
+    "type": "district",
+    "headUid": "municipalities/DLNCNv3RFdbbyGzd7eQU",
+    "geolocationPoint": {
+      "latitude": 12.6199967,
+      "longitude": -7.9976057
+    }
+  },
+  {
+    "uid": "SZoh9ooSMJvXUymiFHYG",
+    "description": "Commune 5, Bamako",
+    "name": "Baco-Djicoroni",
+    "type": "district",
+    "headUid": "municipalities/DLNCNv3RFdbbyGzd7eQU",
+    "geolocationPoint": {
+      "latitude": 12.5916915,
+      "longitude": -8.0160291
+    }
+  },
+  {
+    "uid": "a4T6JvYKvJOkbHyK77w9",
+    "description": "Commune 5, Bamako",
+    "name": "Daoudabougou",
+    "type": "district",
+    "headUid": "municipalities/DLNCNv3RFdbbyGzd7eQU",
+    "geolocationPoint": {
+      "latitude": 12.6005436,
+      "longitude": -7.9790154
+    }
+  },
+  {
+    "uid": "dVyCs73khgaYUn5zCDq3",
+    "description": "Commune 5, Bamako",
+    "name": "Sabalibougou",
+    "type": "district",
+    "headUid": "municipalities/DLNCNv3RFdbbyGzd7eQU",
+    "geolocationPoint": {
+      "latitude": 12.596198,
+      "longitude": -8.004688
+    }
+  },
+  {
+    "uid": "h6krbDXnXQ5P2PMreikz",
+    "description": "Commune 5, Bamako",
+    "name": "Badalabougou Sema I",
+    "type": "district",
+    "headUid": "municipalities/DLNCNv3RFdbbyGzd7eQU",
+    "geolocationPoint": {
+      "latitude": 12.6230914,
+      "longitude": -7.9907688
+    }
+  },
+  {
+    "uid": "j1XhVcZVQLqUTB02bJ9z",
+    "description": "Commune 5, Bamako",
+    "name": "Quartier Mali",
+    "type": "district",
+    "headUid": "municipalities/DLNCNv3RFdbbyGzd7eQU",
+    "geolocationPoint": {
+      "latitude": 12.6131756,
+      "longitude": -7.9957724
+    }
+  },
+  {
+    "uid": "1Ccx21gSEwoBrNW3M6Yf",
+    "description": "Commune 9, Bamako",
+    "name": "Sangarebougou",
+    "type": "district",
+    "headUid": "municipalities/cxD3jUvgwRds2G8XWIHk",
+    "geolocationPoint": {
+      "latitude": 12.6835833,
+      "longitude": -7.9278667
+    }
+  },
+  {
+    "uid": "A7TFD1FroozjcS0FKGmi",
+    "description": "Commune 9, Bamako",
+    "name": "Dialakorodji",
+    "type": "district",
+    "headUid": "municipalities/cxD3jUvgwRds2G8XWIHk",
+    "geolocationPoint": {
+      "latitude": 12.7129103,
+      "longitude": -7.9721584
+    }
+  },
+  {
+    "uid": "FzvRshyHicH0JZ7Dkma9",
+    "description": "Commune 9, Bamako",
+    "name": "Saranbougou",
+    "type": "district",
+    "headUid": "municipalities/cxD3jUvgwRds2G8XWIHk",
+    "geolocationPoint": {
+      "latitude": 12.6837,
+      "longitude": -7.9211
+    }
+  },
+  {
+    "uid": "StTfHJZ5nynu9xM2vSRA",
+    "description": "Commune 9, Bamako",
+    "name": "N'Teguedo Siracoro",
+    "type": "district",
+    "headUid": "municipalities/cxD3jUvgwRds2G8XWIHk",
+    "geolocationPoint": {
+      "latitude": 12.7363,
+      "longitude": -7.9861
+    }
+  },
+  {
+    "uid": "a5qNfPoqnzGKhJfkUEz7",
+    "description": "Commune 9, Bamako",
+    "name": "Seydoubougou",
+    "type": "district",
+    "headUid": "municipalities/cxD3jUvgwRds2G8XWIHk",
+    "geolocationPoint": {
+      "latitude": 12.68881145,
+      "longitude": -7.9242793600495975
+    }
+  },
+  {
+    "uid": "p7KrMGJ8m9SnHhuZbmRA",
+    "description": "Commune 9, Bamako",
+    "name": "N'Teguedo-Samassebougou",
+    "type": "district",
+    "headUid": "municipalities/cxD3jUvgwRds2G8XWIHk",
+    "geolocationPoint": {
+      "latitude": 12.7499,
+      "longitude": -7.9907
+    }
+  },
+  {
+    "uid": "0GnXJJrbuYp0quYWpvCq",
+    "description": "Commune 3, Bamako",
+    "name": "Koulouba",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6715382,
+      "longitude": -8.0076167
+    }
+  },
+  {
+    "uid": "BT5bE6EoZEPjK2PznZoA",
+    "description": "Commune 3, Bamako",
+    "name": "Badialan II",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6523,
+      "longitude": -8.0233
+    }
+  },
+  {
+    "uid": "C2Hs83VMObtzMC0iHTfQ",
+    "description": "Commune 3, Bamako",
+    "name": "Dravela",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6464468,
+      "longitude": -8.0051172
+    }
+  },
+  {
+    "uid": "G7HjqKwpmaRa2LBW1SD9",
+    "description": "Commune 3, Bamako",
+    "name": "Centre commercial",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6444097,
+      "longitude": -8.0020595
+    }
+  },
+  {
+    "uid": "K9XHU0XtPdTPZKCOCidh",
+    "description": "Commune 3, Bamako",
+    "name": "Badialan I",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.652137,
+      "longitude": -8.0273421
+    }
+  },
+  {
+    "uid": "L7lEMZtxqhT8CTAuZGXd",
+    "description": "Commune 3, Bamako",
+    "name": "Sirakoro Dounfing",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6869,
+      "longitude": -8.0531
+    }
+  },
+  {
+    "uid": "QBO8JoPWpTgPJxmOH5JF",
+    "description": "Commune 3, Bamako",
+    "name": "Badialan III",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6545,
+      "longitude": -8.0262
+    }
+  },
+  {
+    "uid": "U5nuNxzoJm2HDeWoo0SE",
+    "description": "Commune 3, Bamako",
+    "name": "Wolofobougou-Bolibana",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6495197,
+      "longitude": -8.0272839
+    }
+  },
+  {
+    "uid": "UFOGa1DZkYyeGDsFstR4",
+    "description": "Commune 3, Bamako",
+    "name": "Ngomiyiranbougou",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6543,
+      "longitude": -8.0153
+    }
+  },
+  {
+    "uid": "XoeRwBPddNoJjXuzsJG4",
+    "description": "Commune 3, Bamako",
+    "name": "Bamako-Coura Bolibana",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.63780315,
+      "longitude": -8.004708611030106
+    }
+  },
+  {
+    "uid": "Y9wi7YvCX49Rhr6krfeV",
+    "description": "Commune 3, Bamako",
+    "name": "Kodabougou",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6514357,
+      "longitude": -8.023337
+    }
+  },
+  {
+    "uid": "YjdLtraVAfPiJVwmKh7e",
+    "description": "Commune 3, Bamako",
+    "name": "Samè",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6672304,
+      "longitude": -8.0438913
+    }
+  },
+  {
+    "uid": "lqr6sSoTolRTPFEw5JBQ",
+    "description": "Commune 3, Bamako",
+    "name": "Dar salam",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6519,
+      "longitude": -8.00527
+    }
+  },
+  {
+    "uid": "m3d8MYqXjKyvgbSdrMLY",
+    "description": "Commune 3, Bamako",
+    "name": "Dravela Bolibana",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6427669,
+      "longitude": -8.01143215
+    }
+  },
+  {
+    "uid": "nFydltffbBtGTgdG0YGv",
+    "description": "Commune 3, Bamako",
+    "name": "Sogonafing",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6745,
+      "longitude": -8.0143
+    }
+  },
+  {
+    "uid": "nxmIxtinsEZfWOmr1kXL",
+    "description": "Commune 3, Bamako",
+    "name": "Bamako-Coura",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6437668,
+      "longitude": -8.0051976
+    }
+  },
+  {
+    "uid": "sjR5BsxoTrcEd11Bp4cX",
+    "description": "Commune 3, Bamako",
+    "name": "Ntomikorobougou",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.657114,
+      "longitude": -8.0247405
+    }
+  },
+  {
+    "uid": "v342WbXQxqBKfs5QSd9r",
+    "description": "Commune 3, Bamako",
+    "name": "Kouliniko",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6548,
+      "longitude": -8.0522
+    }
+  },
+  {
+    "uid": "y61Odqqajb2RYI3lYwYh",
+    "description": "Commune 3, Bamako",
+    "name": "Point G",
+    "type": "district",
+    "headUid": "municipalities/cFhe8n7CZnOqzc0bKBld",
+    "geolocationPoint": {
+      "latitude": 12.6763223,
+      "longitude": -8.0002356
+    }
+  },
+  {
+    "uid": "4YgetKTn4cjSAZwjRVTf",
+    "description": "Commune 2, Bamako",
+    "name": "Bozola",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 12.641113,
+      "longitude": -7.99353
+    }
+  },
+  {
+    "uid": "5HMT59IuZbU9wLzO5hjI",
+    "description": "Commune 2, Bamako",
+    "name": "Bagadadji",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 12.6510633,
+      "longitude": -7.9900605
+    }
+  },
+  {
+    "uid": "6WJjgWyZOM4HfsU4KBF2",
+    "description": "Commune 2, Bamako",
+    "name": "Medina coura",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 12.6587523,
+      "longitude": -7.9870069
+    }
+  },
+  {
+    "uid": "GJ6SyYHd4hGzpSKDhTi3",
+    "description": "Commune 2, Bamako",
+    "name": "Bougouba",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 12.6523147,
+      "longitude": -7.9401418
+    }
+  },
+  {
+    "uid": "PVcJrPOHrwQTUdN96IeE",
+    "description": "Commune 2, Bamako",
+    "name": "Sans-fils",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 0.0,
+      "longitude": 0.0
+    }
+  },
+  {
+    "uid": "UXr4LNzXarNNFkabwh76",
+    "description": "Commune 2, Bamako",
+    "name": "Bakaribougou",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 12.6520047,
+      "longitude": -7.9705171
+    }
+  },
+  {
+    "uid": "Vc2WdQVFCv8CrpTH8MjZ",
+    "description": "Commune 2, Bamako",
+    "name": "Konébougou",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 12.6485,
+      "longitude": -7.9778
+    }
+  },
+  {
+    "uid": "dtVfFydoU9leoSG74W2T",
+    "description": "Commune 2, Bamako",
+    "name": "Hippodrome",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 12.6710009,
+      "longitude": -7.9774643
+    }
+  },
+  {
+    "uid": "h2dYNYpl3HM6xCbWR0R8",
+    "description": "Commune 2, Bamako",
+    "name": "Missira",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 12.6568785,
+      "longitude": -7.9831928
+    }
+  },
+  {
+    "uid": "jHPOmlecFuDQPCdikQHi",
+    "description": "Commune 2, Bamako",
+    "name": "Sikoroni",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 12.6867992,
+      "longitude": -7.9816211
+    }
+  },
+  {
+    "uid": "jMs64bigvcZhLf3WsHOj",
+    "description": "Commune 2, Bamako",
+    "name": "Niarela",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 12.6437885,
+      "longitude": -7.9840464
+    }
+  },
+  {
+    "uid": "jaCIBqql7oEVeZhFHbQy",
+    "description": "Commune 2, Bamako",
+    "name": "Quinzambougou",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 12.6523152,
+      "longitude": -7.9740563
+    }
+  },
+  {
+    "uid": "nlsiNl9mur6FAM6ko6dz",
+    "description": "Commune 2, Bamako",
+    "name": "N’Gomi",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 12.7001,
+      "longitude": -8.0122
+    }
+  },
+  {
+    "uid": "t1IHmB202b0RvYkgmHmL",
+    "description": "Commune 2, Bamako",
+    "name": "Zone Industrielle",
+    "type": "district",
+    "headUid": "municipalities/nfLeZlMBRLsjEylN4GXu",
+    "geolocationPoint": {
+      "latitude": 12.6496375,
+      "longitude": -7.9688035
+    }
+  },
+  {
+    "uid": "8CrFqgvqGa25rN2BNhnz",
+    "description": "Commune 8, Bamako",
+    "name": "Kalabankoro",
+    "type": "district",
+    "headUid": "municipalities/6DAWtnUwU0srzDSeYORQ",
+    "geolocationPoint": {
+      "latitude": 12.5638507,
+      "longitude": -8.0552116
+    }
+  },
+  {
+    "uid": "B1Lxdm9wM1HSPrjFDwIy",
+    "description": "Commune 8, Bamako",
+    "name": "Gouana",
+    "type": "district",
+    "headUid": "municipalities/6DAWtnUwU0srzDSeYORQ",
+    "geolocationPoint": {
+      "latitude": 12.5141111,
+      "longitude": -7.9993056
+    }
+  },
+  {
+    "uid": "Gb2OljjkRih4AYmjuHA9",
+    "description": "Commune 8, Bamako",
+    "name": "N’Golobougou",
+    "type": "district",
+    "headUid": "municipalities/6DAWtnUwU0srzDSeYORQ",
+    "geolocationPoint": {
+      "latitude": 12.47711445,
+      "longitude": -8.054488943997521
+    }
+  },
+  {
+    "uid": "HKGGp3QIrF5OVtBKSZE8",
+    "description": "Commune 8, Bamako",
+    "name": "Kouralé",
+    "type": "district",
+    "headUid": "municipalities/6DAWtnUwU0srzDSeYORQ",
+    "geolocationPoint": {
+      "latitude": 12.4971,
+      "longitude": -8.0262
+    }
+  },
+  {
+    "uid": "XbHkHOqhWLbjYRNYCuCs",
+    "description": "Commune 8, Bamako",
+    "name": "Kabala",
+    "type": "district",
+    "headUid": "municipalities/6DAWtnUwU0srzDSeYORQ",
+    "geolocationPoint": {
+      "latitude": 12.5233,
+      "longitude": -8.0401
+    }
+  },
+  {
+    "uid": "pGG1dv4rXqFHp02NYrS9",
+    "description": "Commune 8, Bamako",
+    "name": "Missala",
+    "type": "district",
+    "headUid": "municipalities/6DAWtnUwU0srzDSeYORQ",
+    "geolocationPoint": {
+      "latitude": 12.5067833,
+      "longitude": -8.0014
+    }
+  },
+  {
+    "uid": "ugyhW2kKkLe6s2IVhPvD",
+    "description": "Commune 8, Bamako",
+    "name": "Missalabougou",
+    "type": "district",
+    "headUid": "municipalities/6DAWtnUwU0srzDSeYORQ",
+    "geolocationPoint": {
+      "latitude": 12.4856,
+      "longitude": -7.9689
+    }
+  },
+  {
+    "uid": "3cRoXZt60xULfbAtgGA6",
+    "description": "Commune 6, Bamako",
+    "name": "Sirakoro Meguetana",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.5651167,
+      "longitude": -7.91825
+    }
+  },
+  {
+    "uid": "6a0KumgfZoYGW9sDCfQ7",
+    "description": "Commune 6, Bamako",
+    "name": "Sénou",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.5205282,
+      "longitude": -7.929262
+    }
+  },
+  {
+    "uid": "8WF7bZKfuWuihsGrbZAk",
+    "description": "Commune 6, Bamako",
+    "name": "Missabougou",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.6330146,
+      "longitude": -7.9204565
+    }
+  },
+  {
+    "uid": "9Hh40DyTrISnvyZ5hlYS",
+    "description": "Commune 6, Bamako",
+    "name": "Banankabougou",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.5902092,
+      "longitude": -7.9461844
+    }
+  },
+  {
+    "uid": "9tcOQmZB8FS6VXrqEy5c",
+    "description": "Commune 6, Bamako",
+    "name": "Diatoula",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.5073352,
+      "longitude": -7.8964146
+    }
+  },
+  {
+    "uid": "AA6e8xv2GOHv4Rr9VZOV",
+    "description": "Commune 6, Bamako",
+    "name": "Sokorodji",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.6136228,
+      "longitude": -7.9557397
+    }
+  },
+  {
+    "uid": "BsJSTOnZ83NikCef1Okk",
+    "description": "Commune 6, Bamako",
+    "name": "Sogoniko",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.604541,
+      "longitude": -7.9656087
+    }
+  },
+  {
+    "uid": "SbgmfizyS1qC0Bs3FSQJ",
+    "description": "Commune 6, Bamako",
+    "name": "Niamakoro",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.573914,
+      "longitude": -7.9663674
+    }
+  },
+  {
+    "uid": "ZbindZ9qBHrpcejYTULv",
+    "description": "Commune 6, Bamako",
+    "name": "Faladié",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.6002204,
+      "longitude": -7.9621881
+    }
+  },
+  {
+    "uid": "dDVPYjm9tycAhM00ux63",
+    "description": "Commune 6, Bamako",
+    "name": "Niamana",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.5946,
+      "longitude": -7.854
+    }
+  },
+  {
+    "uid": "nc0DjJ8oPIABPP88kxSm",
+    "description": "Commune 6, Bamako",
+    "name": "Tabakoro",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.5579,
+      "longitude": -7.8552
+    }
+  },
+  {
+    "uid": "u6ewvvG4Fs1B7dVQebWq",
+    "description": "Commune 6, Bamako",
+    "name": "Yirimadio",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.609166,
+      "longitude": -7.9161591
+    }
+  },
+  {
+    "uid": "uWa2BbyG7xXOfroy2Vlw",
+    "description": "Commune 6, Bamako",
+    "name": "Magnambougou",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.6144105,
+      "longitude": -7.9592881
+    }
+  },
+  {
+    "uid": "wcAWvBA4xdcp14sqzP9c",
+    "description": "Commune 6, Bamako",
+    "name": "Dianeguela",
+    "type": "district",
+    "headUid": "municipalities/BYZfJtSQ0WWvU4rn8hWF",
+    "geolocationPoint": {
+      "latitude": 12.623175450000002,
+      "longitude": -7.954119104252614
+    }
+  },
+  {
+    "uid": "0pf5z1YHueZzFcW7wd2U",
+    "description": "Commune 1, Bamako",
+    "name": "Korofina-Sud",
+    "type": "district",
+    "headUid": "municipalities/75DsRspWvOR2a9VzGzSh",
+    "geolocationPoint": {
+      "latitude": 12.6528519,
+      "longitude": -7.9572751
+    }
+  },
+  {
+    "uid": "3luEcla7qJzJBN4TiPCe",
+    "description": "Commune 1, Bamako",
+    "name": "Boulkassoumbougou",
+    "type": "district",
+    "headUid": "municipalities/75DsRspWvOR2a9VzGzSh",
+    "geolocationPoint": {
+      "latitude": 12.6731804,
+      "longitude": -7.9342743
+    }
+  },
+  {
+    "uid": "9zx2j9csdRk5II4OpFyy",
+    "description": "Commune 1, Bamako",
+    "name": "Djélibougou",
+    "type": "district",
+    "headUid": "municipalities/75DsRspWvOR2a9VzGzSh",
+    "geolocationPoint": {
+      "latitude": 12.6636568,
+      "longitude": -7.9483826
+    }
+  },
+  {
+    "uid": "G1GJE3CBTws1Cf4TTOXt",
+    "description": "Commune 1, Bamako",
+    "name": "Doumanzana",
+    "type": "district",
+    "headUid": "municipalities/75DsRspWvOR2a9VzGzSh",
+    "geolocationPoint": {
+      "latitude": 12.688699199999999,
+      "longitude": -7.939125691659541
+    }
+  },
+  {
+    "uid": "MuMAqHEXjKBO2mAHWgjD",
+    "description": "Commune 1, Bamako",
+    "name": "Sotuba",
+    "type": "district",
+    "headUid": "municipalities/75DsRspWvOR2a9VzGzSh",
+    "geolocationPoint": {
+      "latitude": 12.6594545,
+      "longitude": -7.9256816
+    }
+  },
+  {
+    "uid": "NEkKePl7O1WZInLeZe8q",
+    "description": "Commune 1, Bamako",
+    "name": "Banconi",
+    "type": "district",
+    "headUid": "municipalities/75DsRspWvOR2a9VzGzSh",
+    "geolocationPoint": {
+      "latitude": 12.6695402,
+      "longitude": -7.9624186
+    }
+  },
+  {
+    "uid": "cExDZo1YPH7KclsFV56W",
+    "description": "Commune 1, Bamako",
+    "name": "Fadjiguila",
+    "type": "district",
+    "headUid": "municipalities/75DsRspWvOR2a9VzGzSh",
+    "geolocationPoint": {
+      "latitude": 12.6727765,
+      "longitude": -7.9525879
+    }
+  },
+  {
+    "uid": "p3ItaJIRIrZl67G93Oqo",
+    "description": "Commune 1, Bamako",
+    "name": "Korofina-Nord",
+    "type": "district",
+    "headUid": "municipalities/75DsRspWvOR2a9VzGzSh",
+    "geolocationPoint": {
+      "latitude": 12.666046399999999,
+      "longitude": -7.952749843700509
+    }
+  },
+  {
+    "uid": "6LWtw19GfdoGeQsMZ0W2",
+    "description": "Commune 4, Bamako",
+    "name": "Hamdallaye",
+    "type": "district",
+    "headUid": "municipalities/MmYmQeYZUuUZha3Angv3",
+    "geolocationPoint": {
+      "latitude": 12.6436412,
+      "longitude": -8.0319929
+    }
+  },
+  {
+    "uid": "Qem9H6FV1mJMeUJDCMAo",
+    "description": "Commune 4, Bamako",
+    "name": "Lafiabougou",
+    "type": "district",
+    "headUid": "municipalities/MmYmQeYZUuUZha3Angv3",
+    "geolocationPoint": {
+      "latitude": 12.6370616,
+      "longitude": -8.042475
+    }
+  },
+  {
+    "uid": "R9BwYCBqsTHTZydzGCTT",
+    "description": "Commune 4, Bamako",
+    "name": "Taliko",
+    "type": "district",
+    "headUid": "municipalities/MmYmQeYZUuUZha3Angv3",
+    "geolocationPoint": {
+      "latitude": 12.6287753,
+      "longitude": -8.0587667
+    }
+  },
+  {
+    "uid": "Rpm3pINVm9aY0dZrpLkg",
+    "description": "Commune 4, Bamako",
+    "name": "Dogoudouma",
+    "type": "district",
+    "headUid": "municipalities/MmYmQeYZUuUZha3Angv3",
+    "geolocationPoint": {
+      "latitude": 12.6275259,
+      "longitude": -8.0459887
+    }
+  },
+  {
+    "uid": "douGOCgwpvmwcLdClAua",
+    "description": "Commune 4, Bamako",
+    "name": "Lassa",
+    "type": "district",
+    "headUid": "municipalities/MmYmQeYZUuUZha3Angv3",
+    "geolocationPoint": {
+      "latitude": 12.6525551,
+      "longitude": -8.0488318
+    }
+  },
+  {
+    "uid": "gQOu2rIypaAZklSF4mf8",
+    "description": "Commune 4, Bamako",
+    "name": "Hamdallaye ACI 2000",
+    "type": "district",
+    "headUid": "municipalities/MmYmQeYZUuUZha3Angv3",
+    "geolocationPoint": {
+      "latitude": 12.6321926,
+      "longitude": -8.042164
+    }
+  },
+  {
+    "uid": "rI9osVG5u1B0mvZHY8tr",
+    "description": "Commune 4, Bamako",
+    "name": "Grimgoumo",
+    "type": "district",
+    "headUid": "municipalities/MmYmQeYZUuUZha3Angv3",
+    "geolocationPoint": {
+      "latitude": 12.6275259,
+      "longitude": -8.0459887
+    }
+  },
+  {
+    "uid": "1KPc3yot1xFQKaXYwpoo",
+    "description": "Commune 7, Bamako",
+    "name": "Samako plantation",
+    "type": "district",
+    "headUid": "municipalities/NtRDpmwFvnV7KBPA4en9",
+    "geolocationPoint": {
+      "latitude": 12.5365,
+      "longitude": -8.0902
+    }
+  },
+  {
+    "uid": "1wnYpVJdTyeIqOhIfpoT",
+    "description": "Commune 7, Bamako",
+    "name": "Kanadjiguila",
+    "type": "district",
+    "headUid": "municipalities/NtRDpmwFvnV7KBPA4en9",
+    "geolocationPoint": {
+      "latitude": 12.5587,
+      "longitude": -8.0843
+    }
+  },
+  {
+    "uid": "2ma5671y61dqWz8JHZZ8",
+    "description": "Commune 7, Bamako",
+    "name": "Kabalabougou",
+    "type": "district",
+    "headUid": "municipalities/NtRDpmwFvnV7KBPA4en9",
+    "geolocationPoint": {
+      "latitude": 12.5604667,
+      "longitude": -8.0541833
+    }
+  },
+  {
+    "uid": "AjggxLRQXgR0EkX9b5lO",
+    "description": "Commune 7, Bamako",
+    "name": "Sebenikoro",
+    "type": "district",
+    "headUid": "municipalities/NtRDpmwFvnV7KBPA4en9",
+    "geolocationPoint": {
+      "latitude": 12.5903135,
+      "longitude": -8.0678487
+    }
+  },
+  {
+    "uid": "UItM0zfRsauxSbHldUwd",
+    "description": "Commune 7, Bamako",
+    "name": "Djicoroni-Para",
+    "type": "district",
+    "headUid": "municipalities/NtRDpmwFvnV7KBPA4en9",
+    "geolocationPoint": {
+      "latitude": 12.626678,
+      "longitude": -8.0352433
+    }
+  },
+  {
+    "uid": "UcNj2RzKaBI5pHQq8v07",
+    "description": "Commune 7, Bamako",
+    "name": "Kalabanbougou",
+    "type": "district",
+    "headUid": "municipalities/NtRDpmwFvnV7KBPA4en9",
+    "geolocationPoint": {
+      "latitude": 12.5706462,
+      "longitude": -8.0546986
+    }
+  },
+  {
+    "uid": "Z9X6LRtRaR9AKDKBwdfD",
+    "description": "Commune 7, Bamako",
+    "name": "Samaya",
+    "type": "district",
+    "headUid": "municipalities/NtRDpmwFvnV7KBPA4en9",
+    "geolocationPoint": {
+      "latitude": 12.5638507,
+      "longitude": -8.0552116
+    }
+  },
+  {
+    "uid": "utNMVd8EOnhSjGGfHXPc",
+    "description": "Commune 7, Bamako",
+    "name": "Sibiribougou",
+    "type": "district",
+    "headUid": "municipalities/NtRDpmwFvnV7KBPA4en9",
+    "geolocationPoint": {
+      "latitude": 12.586476,
+      "longitude": -8.073024
+    }
+  },
+  {
+    "uid": "zMNbSL4ETITiBB0kMqY3",
+    "description": "Commune 7, Bamako",
+    "name": "Mamaribougou",
+    "type": "district",
+    "headUid": "municipalities/NtRDpmwFvnV7KBPA4en9",
+    "geolocationPoint": {
+      "latitude": 12.5614,
+      "longitude": -8.1017
+    }
+  },
+  {
+    "uid": "2SW3ZrwUtL4IDOh1vXrS",
+    "description": "Commune 10, Bamako",
+    "name": "Souleymanebougou",
+    "type": "district",
+    "headUid": "municipalities/tvoEdn186D240zHuyTmJ",
+    "geolocationPoint": {
+      "latitude": 12.6791204,
+      "longitude": -7.8904689
+    }
+  },
+  {
+    "uid": "3lBI5ltriz5fYlTYa9vS",
+    "description": "Commune 10, Bamako",
+    "name": "Moribabougou",
+    "type": "district",
+    "headUid": "municipalities/tvoEdn186D240zHuyTmJ",
+    "geolocationPoint": {
+      "latitude": 12.6891,
+      "longitude": -7.8667
+    }
+  },
+  {
+    "uid": "69xPWeJJWlfYE7KcVXIJ",
+    "description": "Commune 10, Bamako",
+    "name": "Sala",
+    "type": "district",
+    "headUid": "municipalities/tvoEdn186D240zHuyTmJ",
+    "geolocationPoint": {
+      "latitude": 12.6583,
+      "longitude": -7.7986
+    }
+  },
+  {
+    "uid": "FXptJPpkmfXQznsDs925",
+    "description": "Commune 10, Bamako",
+    "name": "Solokono",
+    "type": "district",
+    "headUid": "municipalities/tvoEdn186D240zHuyTmJ",
+    "geolocationPoint": {
+      "latitude": 12.6605,
+      "longitude": -7.8265
+    }
+  },
+  {
+    "uid": "MJFCsGbtQSiWGe87eBPN",
+    "description": "Commune 10, Bamako",
+    "name": "Sikoulou",
+    "type": "district",
+    "headUid": "municipalities/tvoEdn186D240zHuyTmJ",
+    "geolocationPoint": {
+      "latitude": 12.711,
+      "longitude": -7.8296
+    }
+  },
+  {
+    "uid": "hJm7YUattgezIlsdLBpz",
+    "description": "Commune 10, Bamako",
+    "name": "Mounoumounoumba",
+    "type": "district",
+    "headUid": "municipalities/tvoEdn186D240zHuyTmJ",
+    "geolocationPoint": {
+      "latitude": 12.7028,
+      "longitude": -7.8199
+    }
+  },
+  {
+    "uid": "iUvobVk9h0qLvSwPGxZa",
+    "description": "Commune 10, Bamako",
+    "name": "Dogobala",
+    "type": "district",
+    "headUid": "municipalities/tvoEdn186D240zHuyTmJ",
+    "geolocationPoint": {
+      "latitude": 12.7057,
+      "longitude": -7.8629
+    }
+  },
+  {
+    "uid": "kYhOzTRu8W4LqEkSmz7s",
+    "description": "Commune 10, Bamako",
+    "name": "Djinkoni",
+    "type": "district",
+    "headUid": "municipalities/tvoEdn186D240zHuyTmJ",
+    "geolocationPoint": {
+      "latitude": 12.7266,
+      "longitude": -7.7544
+    }
+  },
+  {
+    "uid": "kxo62oCuM3bA4z9IFyFi",
+    "description": "Commune 10, Bamako",
+    "name": "N'gabacoro droit",
+    "type": "district",
+    "headUid": "municipalities/tvoEdn186D240zHuyTmJ",
+    "geolocationPoint": {
+      "latitude": 12.6867,
+      "longitude": -7.8385
+    }
+  },
+  {
+    "uid": "ta2nJ50mqzmlj8Nt3WYk",
+    "description": "Commune 10, Bamako",
+    "name": "Titibougou",
+    "type": "district",
+    "headUid": "municipalities/tvoEdn186D240zHuyTmJ",
+    "geolocationPoint": {
+      "latitude": 12.6688139,
+      "longitude": -7.9048112
+    }
+  },
+  {
+    "uid": "1YHSjTD93RTxdolGYO3E",
+    "description": "Mali",
+    "name": "Gao",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 16.27167,
+      "longitude": -0.04472
+    }
+  },
+  {
+    "uid": "8MKWeNZqYDX1sKByvgPh",
+    "description": "Mali",
+    "name": "Sikasso",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 11.3164979,
+      "longitude": -5.6777499
+    }
+  },
+  {
+    "uid": "9VfYAAUBJKqrGVOiK7F1",
+    "description": "Mali",
+    "name": "San",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 22.004132,
+      "longitude": -99.0116965
+    }
+  },
+  {
+    "uid": "BLsUbVFIqlluQCTR9k41",
+    "description": "Mali",
+    "name": "Tombouctou",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 16.7719091,
+      "longitude": -3.0087272
+    }
+  },
+  {
+    "uid": "JwpFQe63L5p3FBgZsiks",
+    "description": "Mali",
+    "name": "Bougouni",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 11.41769,
+      "longitude": -7.48323
+    }
+  },
+  {
+    "uid": "MW8FfNF3glhHGXIo89G7",
+    "description": "Mali",
+    "name": "Nioro",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 15.2304528,
+      "longitude": -9.5899063
+    }
+  },
+  {
+    "uid": "Pjj3oAEORW7I1TDCv8f9",
+    "description": "Mali",
+    "name": "Bandiagara",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 14.3505,
+      "longitude": -3.6112766
+    }
+  },
+  {
+    "uid": "QGUuk5nG5axFEVXwrmBo",
+    "description": "Mali",
+    "name": "Kita",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 13.0349,
+      "longitude": -9.4895
+    }
+  },
+  {
+    "uid": "WlXRvmNpB0Eh9liXfw2G",
+    "description": "Mali",
+    "name": "Koutiala",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 12.377411,
+      "longitude": -5.472538
+    }
+  },
+  {
+    "uid": "aKTZ0WzXbgJF3xxDC550",
+    "description": "Mali",
+    "name": "Dioïla",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 12.4863792,
+      "longitude": -6.7948799
+    }
+  },
+  {
+    "uid": "b7FLeK78jpDz8fBrM30T",
+    "description": "Mali",
+    "name": "Douentza",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 15.0068749,
+      "longitude": -2.9529649
+    }
+  },
+  {
+    "uid": "i2LQwuLVo07No6juvwAq",
+    "description": "Mali",
+    "name": "Bamako",
+    "type": "capitalCity",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 12.65,
+      "longitude": -8.0
+    }
+  },
+  {
+    "uid": "i4H2o6L1R8rtO56PyHRp",
+    "description": "Mali",
+    "name": "Ségou",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 13.441518,
+      "longitude": -6.268147
+    }
+  },
+  {
+    "uid": "iBYTSFfjtQIJSECBsVr5",
+    "description": "Mali",
+    "name": "Koulikoro",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 12.866205,
+      "longitude": -7.559932
+    }
+  },
+  {
+    "uid": "jJi3OX9PAkGnM9twXWNZ",
+    "description": "Mali",
+    "name": "Taoudéni",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 22.67443,
+      "longitude": -3.97891
+    }
+  },
+  {
+    "uid": "k7UdPNBtINXAzcrMgUe2",
+    "description": "Mali",
+    "name": "Menaka",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 15.9182,
+      "longitude": 2.4022
+    }
+  },
+  {
+    "uid": "ur7PCoMrGgrlDWYd2hNR",
+    "description": "Mali",
+    "name": "Kidal",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 18.44111,
+      "longitude": 1.40778
+    }
+  },
+  {
+    "uid": "wdOkJSsbFTMjZEhN6uA4",
+    "description": "Mali",
+    "name": "Nara",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 15.1333328,
+      "longitude": -7.1833326
+    }
+  },
+  {
+    "uid": "wnk2hz59vAlo2ivlscCN",
+    "description": "Mali",
+    "name": "Mopti",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 14.4877275,
+      "longitude": -4.1892469
+    }
+  },
+  {
+    "uid": "IAhRD7Q4Sodi5yGCtgK1",
+    "description": "Mali",
+    "name": "Koutiala",
+    "type": "departments",
+    "headUid": "regions/WlXRvmNpB0Eh9liXfw2G",
+    "geolocationPoint": {
+      "latitude": 12.377411,
+      "longitude": -5.472538
+    }
+  },
+  {
+    "uid": "Pr549d6gfoKZ2MRJwnzI",
+    "description": "Koutiala, Mali",
+    "name": "Yorosso",
+    "type": "departments",
+    "headUid": "regions/WlXRvmNpB0Eh9liXfw2G",
+    "geolocationPoint": {
+      "latitude": 12.3666652,
+      "longitude": -4.7833302
+    }
+  },
+  {
+    "uid": "kupA3sLgHMgq5Gbl0sSu",
+    "description": "Koutiala, Mali",
+    "name": "Molobala",
+    "type": "departments",
+    "headUid": "regions/WlXRvmNpB0Eh9liXfw2G",
+    "geolocationPoint": {
+      "latitude": 12.17778,
+      "longitude": -5.33333
+    }
+  },
+  {
+    "uid": "nwNcRgfAdthqX2EllABC",
+    "description": "Koutiala, Mali",
+    "name": "M'Pessoba",
+    "type": "departments",
+    "headUid": "regions/WlXRvmNpB0Eh9liXfw2G",
+    "geolocationPoint": {
+      "latitude": 12.6654805,
+      "longitude": -5.7206908
+    }
+  },
+  {
+    "uid": "5kCwnQmOJ0P5DiU1FZ3G",
+    "description": "Bandiagara, Mali",
+    "name": "Kor",
+    "type": "departments",
+    "headUid": "regions/Pjj3oAEORW7I1TDCv8f9",
+    "geolocationPoint": {
+      "latitude": 15.4369,
+      "longitude": -7.957
+    }
+  },
+  {
+    "uid": "KqI6RXKXdsfy1TTTjmcz",
+    "description": "Mali",
+    "name": "Bandiagara",
+    "type": "departments",
+    "headUid": "regions/Pjj3oAEORW7I1TDCv8f9",
+    "geolocationPoint": {
+      "latitude": 14.3505,
+      "longitude": -3.6112766
+    }
+  },
+  {
+    "uid": "wPNLP4QSthjleSucbWfG",
+    "description": "Bandiagara, Mali",
+    "name": "Bankass",
+    "type": "departments",
+    "headUid": "regions/Pjj3oAEORW7I1TDCv8f9",
+    "geolocationPoint": {
+      "latitude": 14.2964079,
+      "longitude": -3.6007523
+    }
+  },
+  {
+    "uid": "3oSC4FpH9LKEpFHZcG0F",
+    "description": "Bougouni, Mali",
+    "name": "Garalo",
+    "type": "departments",
+    "headUid": "regions/JwpFQe63L5p3FBgZsiks",
+    "geolocationPoint": {
+      "latitude": 10.9927195,
+      "longitude": -7.436939
+    }
+  },
+  {
+    "uid": "9fb9p7bxsdlBbuY4aPN9",
+    "description": "Bougouni, Mali",
+    "name": "Koumantou",
+    "type": "departments",
+    "headUid": "regions/JwpFQe63L5p3FBgZsiks",
+    "geolocationPoint": {
+      "latitude": 11.4086089,
+      "longitude": -6.8464137
+    }
+  },
+  {
+    "uid": "bH4CAaRPB7kHpRj59nb4",
+    "description": "Bougouni, Mali",
+    "name": "Yanfolila",
+    "type": "departments",
+    "headUid": "regions/JwpFQe63L5p3FBgZsiks",
+    "geolocationPoint": {
+      "latitude": 11.1751531,
+      "longitude": -8.1525442
+    }
+  },
+  {
+    "uid": "ivcoCuTV9P9EtaVTgh5X",
+    "description": "Bougouni, Mali",
+    "name": "Kolondieba",
+    "type": "departments",
+    "headUid": "regions/JwpFQe63L5p3FBgZsiks",
+    "geolocationPoint": {
+      "latitude": 10.8147,
+      "longitude": -6.835
+    }
+  },
+  {
+    "uid": "ImTwvVik70tk4k1R7wsl",
+    "description": "Ségou, Mali",
+    "name": "Macina",
+    "type": "departments",
+    "headUid": "regions/i4H2o6L1R8rtO56PyHRp",
+    "geolocationPoint": {
+      "latitude": 13.962189,
+      "longitude": -5.3594898
+    }
+  },
+  {
+    "uid": "X0L2XnoU6qMpR4Ph6z80",
+    "description": "Ségou, Mali",
+    "name": "Baroueli",
+    "type": "departments",
+    "headUid": "regions/i4H2o6L1R8rtO56PyHRp",
+    "geolocationPoint": {
+      "latitude": 13.0728274,
+      "longitude": -6.8317734
+    }
+  },
+  {
+    "uid": "dPJ8AMOtX6s9DDIwNARL",
+    "description": "Ségou, Mali",
+    "name": "Niono",
+    "type": "departments",
+    "headUid": "regions/i4H2o6L1R8rtO56PyHRp",
+    "geolocationPoint": {
+      "latitude": 14.2515119,
+      "longitude": -5.9783506
+    }
+  },
+  {
+    "uid": "294IAaXl2UMKJFmDpKNU",
+    "description": "Gao, Mali",
+    "name": "Wabaria",
+    "type": "departments",
+    "headUid": "regions/1YHSjTD93RTxdolGYO3E",
+    "geolocationPoint": {
+      "latitude": 16.1908,
+      "longitude": -0.0322
+    }
+  },
+  {
+    "uid": "2I5cpGtG5plu1CoM8Dse",
+    "description": "Gao, Mali",
+    "name": "Talataye",
+    "type": "departments",
+    "headUid": "regions/1YHSjTD93RTxdolGYO3E",
+    "geolocationPoint": {
+      "latitude": 15.7058,
+      "longitude": 0.41
+    }
+  },
+  {
+    "uid": "5eJ2G144uK8BwZOIMpjX",
+    "description": "Gao, Mali",
+    "name": "Djebock",
+    "type": "departments",
+    "headUid": "regions/1YHSjTD93RTxdolGYO3E",
+    "geolocationPoint": {
+      "latitude": 16.3428288,
+      "longitude": 0.2783994
+    }
+  },
+  {
+    "uid": "LGjuWtuMAEy4oFFBkWoz",
+    "description": "Gao, Mali",
+    "name": "Almoustarat",
+    "type": "departments",
+    "headUid": "regions/1YHSjTD93RTxdolGYO3E",
+    "geolocationPoint": {
+      "latitude": 17.4115424,
+      "longitude": 0.0938073
+    }
+  },
+  {
+    "uid": "X3wT6SXml8c7EjNOFrN7",
+    "description": "Gao, Mali",
+    "name": "Bamba",
+    "type": "departments",
+    "headUid": "regions/1YHSjTD93RTxdolGYO3E",
+    "geolocationPoint": {
+      "latitude": 17.0333,
+      "longitude": -1.4
+    }
+  },
+  {
+    "uid": "eJIye8CsEh7tAQhsQYHs",
+    "description": "Gao, Mali",
+    "name": "Outtagouna",
+    "type": "departments",
+    "headUid": "regions/1YHSjTD93RTxdolGYO3E",
+    "geolocationPoint": {
+      "latitude": 15.338831978,
+      "longitude": -0.753663652
+    }
+  },
+  {
+    "uid": "ipzFjXaNWnDkC96q1wDD",
+    "description": "Gao, Mali",
+    "name": "Ansogo",
+    "type": "departments",
+    "headUid": "regions/1YHSjTD93RTxdolGYO3E",
+    "geolocationPoint": {
+      "latitude": 15.6597,
+      "longitude": 0.5022
+    }
+  },
+  {
+    "uid": "mDjFkP0igIsWWXng0IDt",
+    "description": "Gao, Mali",
+    "name": "Tessit",
+    "type": "departments",
+    "headUid": "regions/1YHSjTD93RTxdolGYO3E",
+    "geolocationPoint": {
+      "latitude": 15.2167,
+      "longitude": 0.7
+    }
+  },
+  {
+    "uid": "pGTt4sT4FceWPZZx6AI7",
+    "description": "Gao, Mali",
+    "name": "Tinaouker",
+    "type": "departments",
+    "headUid": "regions/1YHSjTD93RTxdolGYO3E",
+    "geolocationPoint": {
+      "latitude": 16.662,
+      "longitude": 0.4123
+    }
+  },
+  {
+    "uid": "pa55sEKuugkrlxa4O5HH",
+    "description": "Gao, Mali",
+    "name": "Ersane",
+    "type": "departments",
+    "headUid": "regions/1YHSjTD93RTxdolGYO3E",
+    "geolocationPoint": {
+      "latitude": 17.7935582,
+      "longitude": 0.0108989
+    }
+  },
+  {
+    "uid": "v8eK2i5ZInfyruFJsGvK",
+    "description": "Gao, Mali",
+    "name": "Bourem",
+    "type": "departments",
+    "headUid": "regions/1YHSjTD93RTxdolGYO3E",
+    "geolocationPoint": {
+      "latitude": 16.9575282,
+      "longitude": -0.3468008
+    }
+  },
+  {
+    "uid": "1z9tsVYCje9ARnQ37uSl",
+    "description": "Dioïla, Mali",
+    "name": "Fana",
+    "type": "departments",
+    "headUid": "regions/aKTZ0WzXbgJF3xxDC550",
+    "geolocationPoint": {
+      "latitude": 12.7666636,
+      "longitude": -6.5666644
+    }
+  },
+  {
+    "uid": "7ZrcaxQV154ELrUi5V7R",
+    "description": "Mali",
+    "name": "Dioïla",
+    "type": "departments",
+    "headUid": "regions/aKTZ0WzXbgJF3xxDC550",
+    "geolocationPoint": {
+      "latitude": 12.4863792,
+      "longitude": -6.7948799
+    }
+  },
+  {
+    "uid": "CHzZeCHia2xu0Kl46x8B",
+    "description": "Dioïla, Mali",
+    "name": "Banco",
+    "type": "departments",
+    "headUid": "regions/aKTZ0WzXbgJF3xxDC550",
+    "geolocationPoint": {
+      "latitude": 12.0991693,
+      "longitude": -6.5244935
+    }
+  },
+  {
+    "uid": "DgPDMCh9H7OOoDGxzU2m",
+    "description": "Dioïla, Mali",
+    "name": "Beleco",
+    "type": "departments",
+    "headUid": "regions/aKTZ0WzXbgJF3xxDC550",
+    "geolocationPoint": {
+      "latitude": 12.65,
+      "longitude": -6.56667
+    }
+  },
+  {
+    "uid": "pJimLYZPU4Oa20R0txGR",
+    "description": "Dioïla, Mali",
+    "name": "Massigui",
+    "type": "departments",
+    "headUid": "regions/aKTZ0WzXbgJF3xxDC550",
+    "geolocationPoint": {
+      "latitude": 11.8667,
+      "longitude": -6.76667
+    }
+  },
+  {
+    "uid": "tVko1NdsossgH6vTUbIf",
+    "description": "Dioïla, Mali",
+    "name": "Mena",
+    "type": "departments",
+    "headUid": "regions/aKTZ0WzXbgJF3xxDC550",
+    "geolocationPoint": {
+      "latitude": 11.283333,
+      "longitude": -6.783333
+    }
+  },
+  {
+    "uid": "IAmbGR50QmGpy6Caew7l",
+    "description": "Nioro, Mali",
+    "name": "Troungoumbe",
+    "type": "departments",
+    "headUid": "regions/MW8FfNF3glhHGXIo89G7",
+    "geolocationPoint": {
+      "latitude": 15.2651333,
+      "longitude": -9.2286833
+    }
+  },
+  {
+    "uid": "Q9nCmjprgfbxc08gZPww",
+    "description": "Nioro, Mali",
+    "name": "Diema",
+    "type": "departments",
+    "headUid": "regions/MW8FfNF3glhHGXIo89G7",
+    "geolocationPoint": {
+      "latitude": 14.53997,
+      "longitude": -9.190029
+    }
+  },
+  {
+    "uid": "V0RxsUGKAcGU0SWKeRPi",
+    "description": "Nioro, Mali",
+    "name": "Sandare",
+    "type": "departments",
+    "headUid": "regions/MW8FfNF3glhHGXIo89G7",
+    "geolocationPoint": {
+      "latitude": 14.7034797,
+      "longitude": -10.3056063
+    }
+  },
+  {
+    "uid": "mFZu8ZxzbHNtFcxhPIIn",
+    "description": "Mali",
+    "name": "Nioro",
+    "type": "departments",
+    "headUid": "regions/MW8FfNF3glhHGXIo89G7",
+    "geolocationPoint": {
+      "latitude": 15.2304528,
+      "longitude": -9.5899063
+    }
+  },
+  {
+    "uid": "8qlZcsngSnaed3X1whdV",
+    "description": "San, Mali",
+    "name": "Kimparana",
+    "type": "departments",
+    "headUid": "regions/9VfYAAUBJKqrGVOiK7F1",
+    "geolocationPoint": {
+      "latitude": 12.834733,
+      "longitude": -4.9244395
+    }
+  },
+  {
+    "uid": "9clNbcii4sPNACfLeoyo",
+    "description": "San, Mali",
+    "name": "Bla",
+    "type": "departments",
+    "headUid": "regions/9VfYAAUBJKqrGVOiK7F1",
+    "geolocationPoint": {
+      "latitude": 13.1094255,
+      "longitude": -5.2123857
+    }
+  },
+  {
+    "uid": "9xJHExNO7F6CpXE0jrYA",
+    "description": "San, Mali",
+    "name": "Yangasso",
+    "type": "departments",
+    "headUid": "regions/9VfYAAUBJKqrGVOiK7F1",
+    "geolocationPoint": {
+      "latitude": 13.0741035,
+      "longitude": -5.3192753
+    }
+  },
+  {
+    "uid": "gPS5gnHoi17ddUBMYs75",
+    "description": "San, Mali",
+    "name": "Tominian",
+    "type": "departments",
+    "headUid": "regions/9VfYAAUBJKqrGVOiK7F1",
+    "geolocationPoint": {
+      "latitude": 13.28573,
+      "longitude": -4.59082
+    }
+  },
+  {
+    "uid": "550fkOOSCnXdub5P6uE5",
+    "description": "Sikasso, Mali",
+    "name": "Kignan",
+    "type": "departments",
+    "headUid": "regions/8MKWeNZqYDX1sKByvgPh",
+    "geolocationPoint": {
+      "latitude": 11.8481674,
+      "longitude": -6.014092
+    }
+  },
+  {
+    "uid": "ETLoIxyZnCZ3xgzE1GCY",
+    "description": "Sikasso, Mali",
+    "name": "Niena",
+    "type": "departments",
+    "headUid": "regions/8MKWeNZqYDX1sKByvgPh",
+    "geolocationPoint": {
+      "latitude": 11.4256681,
+      "longitude": -6.349073
+    }
+  },
+  {
+    "uid": "VzzXDcx31bGY9N8qDgo0",
+    "description": "Sikasso, Mali",
+    "name": "Kadiolo",
+    "type": "departments",
+    "headUid": "regions/8MKWeNZqYDX1sKByvgPh",
+    "geolocationPoint": {
+      "latitude": 10.5540365,
+      "longitude": -5.7592858
+    }
+  },
+  {
+    "uid": "4ktjEE524278uqMq28Fw",
+    "description": "Kita, Mali",
+    "name": "Kenieba",
+    "type": "departments",
+    "headUid": "regions/QGUuk5nG5axFEVXwrmBo",
+    "geolocationPoint": {
+      "latitude": 12.9267522,
+      "longitude": -9.9350973
+    }
+  },
+  {
+    "uid": "B5rWWGzVsNpFtAcEe9dr",
+    "description": "Kita, Mali",
+    "name": "Toukoto",
+    "type": "departments",
+    "headUid": "regions/QGUuk5nG5axFEVXwrmBo",
+    "geolocationPoint": {
+      "latitude": 13.446487,
+      "longitude": -9.8761494
+    }
+  },
+  {
+    "uid": "XsYMs2rG5V719WV2bva8",
+    "description": "Kita, Mali",
+    "name": "Sagabari",
+    "type": "departments",
+    "headUid": "regions/QGUuk5nG5axFEVXwrmBo",
+    "geolocationPoint": {
+      "latitude": 12.583731,
+      "longitude": -9.8031288
+    }
+  },
+  {
+    "uid": "a1Beo9v2wOyF3U0ZDoXn",
+    "description": "Mali",
+    "name": "Kita",
+    "type": "departments",
+    "headUid": "regions/QGUuk5nG5axFEVXwrmBo",
+    "geolocationPoint": {
+      "latitude": 13.0349,
+      "longitude": -9.4895
+    }
+  },
+  {
+    "uid": "q6tqfR99FCYUGAoKZAKu",
+    "description": "Kita, Mali",
+    "name": "Sebekoro",
+    "type": "departments",
+    "headUid": "regions/QGUuk5nG5axFEVXwrmBo",
+    "geolocationPoint": {
+      "latitude": 12.9627076,
+      "longitude": -8.9879559
+    }
+  },
+  {
+    "uid": "QWzoOQSNwgfHtGyoEhvQ",
+    "description": "Mali",
+    "name": "Douentza",
+    "type": "departments",
+    "headUid": "regions/b7FLeK78jpDz8fBrM30T",
+    "geolocationPoint": {
+      "latitude": 15.0068749,
+      "longitude": -2.9529649
+    }
+  },
+  {
+    "uid": "Yh7CsaBJXvN6be7hdzJe",
+    "description": "Douentza, Mali",
+    "name": "Mondoro",
+    "type": "departments",
+    "headUid": "regions/b7FLeK78jpDz8fBrM30T",
+    "geolocationPoint": {
+      "latitude": 14.6758694,
+      "longitude": -1.9500937
+    }
+  },
+  {
+    "uid": "gnSm1R7zchBkOH06A39t",
+    "description": "Douentza, Mali",
+    "name": "Diankabou",
+    "type": "departments",
+    "headUid": "regions/b7FLeK78jpDz8fBrM30T",
+    "geolocationPoint": {
+      "latitude": 14.583331,
+      "longitude": -3.083333
+    }
+  },
+  {
+    "uid": "ii9pncW9pc612N4XTITt",
+    "description": "Douentza, Mali",
+    "name": "Hombori",
+    "type": "departments",
+    "headUid": "regions/b7FLeK78jpDz8fBrM30T",
+    "geolocationPoint": {
+      "latitude": 15.2831164,
+      "longitude": -1.6990741
+    }
+  },
+  {
+    "uid": "7bMwyInDoiw8P4Z5QyNo",
+    "description": "Tombouctou, Mali",
+    "name": "Léré",
+    "type": "departments",
+    "headUid": "regions/BLsUbVFIqlluQCTR9k41",
+    "geolocationPoint": {
+      "latitude": 15.7117,
+      "longitude": -4.91167
+    }
+  },
+  {
+    "uid": "AmRx9LgyYbq6s7KKeuBR",
+    "description": "Tombouctou, Mali",
+    "name": "Gargando",
+    "type": "departments",
+    "headUid": "regions/BLsUbVFIqlluQCTR9k41",
+    "geolocationPoint": {
+      "latitude": 16.4625,
+      "longitude": -4.17278
+    }
+  },
+  {
+    "uid": "FxmxGIS9V14qqgx2eguQ",
+    "description": "Tombouctou, Mali",
+    "name": "Tonka",
+    "type": "departments",
+    "headUid": "regions/BLsUbVFIqlluQCTR9k41",
+    "geolocationPoint": {
+      "latitude": 16.1333328,
+      "longitude": -3.749997
+    }
+  },
+  {
+    "uid": "SCdGRc6fYRJmvw1hUOUq",
+    "description": "Tombouctou, Mali",
+    "name": "Niafunké",
+    "type": "departments",
+    "headUid": "regions/BLsUbVFIqlluQCTR9k41",
+    "geolocationPoint": {
+      "latitude": 15.9322,
+      "longitude": -3.9906
+    }
+  },
+  {
+    "uid": "aFjPvbukuw1Xqfpx26lX",
+    "description": "Tombouctou, Mali",
+    "name": "Goundam",
+    "type": "departments",
+    "headUid": "regions/BLsUbVFIqlluQCTR9k41",
+    "geolocationPoint": {
+      "latitude": 16.41453,
+      "longitude": -3.67075
+    }
+  },
+  {
+    "uid": "geESfoDuq9G9HsDjNlbo",
+    "description": "Tombouctou, Mali",
+    "name": "Diré",
+    "type": "departments",
+    "headUid": "regions/BLsUbVFIqlluQCTR9k41",
+    "geolocationPoint": {
+      "latitude": 12.28333,
+      "longitude": -10.96667
+    }
+  },
+  {
+    "uid": "mrkj8RUYEpu4LEP5F4v8",
+    "description": "Tombouctou, Mali",
+    "name": "Gossi",
+    "type": "departments",
+    "headUid": "regions/BLsUbVFIqlluQCTR9k41",
+    "geolocationPoint": {
+      "latitude": 15.8,
+      "longitude": -1.31667
+    }
+  },
+  {
+    "uid": "pm5bb95nIFZkYZ7Ammzt",
+    "description": "Tombouctou, Mali",
+    "name": "Ber",
+    "type": "departments",
+    "headUid": "regions/BLsUbVFIqlluQCTR9k41",
+    "geolocationPoint": {
+      "latitude": 12.079,
+      "longitude": -12.2982
+    }
+  },
+  {
+    "uid": "q3HIWbJnaQiJJAkHhN7L",
+    "description": "Tombouctou, Mali",
+    "name": "Gourma-Rharouss",
+    "type": "departments",
+    "headUid": "regions/BLsUbVFIqlluQCTR9k41",
+    "geolocationPoint": {
+      "latitude": 16.152699,
+      "longitude": -1.520862
+    }
+  },
+  {
+    "uid": "qwDoHNmox7pNZUhHC3i2",
+    "description": "Menaka, Mali",
+    "name": "Anderamboukane",
+    "type": "departments",
+    "headUid": "regions/k7UdPNBtINXAzcrMgUe2",
+    "geolocationPoint": {
+      "latitude": 15.4220566,
+      "longitude": 3.0224703
+    }
+  },
+  {
+    "uid": "rrSZW3q3UzmqXLYgHUFV",
+    "description": "Menaka, Mali",
+    "name": "Anouzegrene",
+    "type": "departments",
+    "headUid": "regions/k7UdPNBtINXAzcrMgUe2",
+    "geolocationPoint": {
+      "latitude": 15.5371,
+      "longitude": 2.4972
+    }
+  },
+  {
+    "uid": "sJ62WWcVBkj3eUyekiSI",
+    "description": "Menaka, Mali",
+    "name": "Inekar",
+    "type": "departments",
+    "headUid": "regions/k7UdPNBtINXAzcrMgUe2",
+    "geolocationPoint": {
+      "latitude": 15.9486791,
+      "longitude": 3.1572826
+    }
+  },
+  {
+    "uid": "uA90Z2ifz9xNKOMLHl9T",
+    "description": "Menaka, Mali",
+    "name": "Tidermene",
+    "type": "departments",
+    "headUid": "regions/k7UdPNBtINXAzcrMgUe2",
+    "geolocationPoint": {
+      "latitude": 16.5923464,
+      "longitude": 2.415028
+    }
+  },
+  {
+    "uid": "GJHmRlGSVzEKI8LIR1Ft",
+    "description": "Taoudéni, Mali",
+    "name": "Achouratt",
+    "type": "departments",
+    "headUid": "regions/jJi3OX9PAkGnM9twXWNZ",
+    "geolocationPoint": {
+      "latitude": 22.67443,
+      "longitude": -3.97891
+    }
+  },
+  {
+    "uid": "RAx67L84lzgKc2xhBXbr",
+    "description": "Taoudéni, Mali",
+    "name": "Araouane",
+    "type": "departments",
+    "headUid": "regions/jJi3OX9PAkGnM9twXWNZ",
+    "geolocationPoint": {
+      "latitude": 18.90476,
+      "longitude": -3.52649
+    }
+  },
+  {
+    "uid": "fRQcUr39C3SAA66UfhYP",
+    "description": "Taoudéni, Mali",
+    "name": "Al-Ourche",
+    "type": "departments",
+    "headUid": "regions/jJi3OX9PAkGnM9twXWNZ",
+    "geolocationPoint": {
+      "latitude": 22.67443,
+      "longitude": -3.97891
+    }
+  },
+  {
+    "uid": "rGrQHLEFU405sQ6ZHEfS",
+    "description": "Taoudéni, Mali",
+    "name": "Foum-Elba",
+    "type": "departments",
+    "headUid": "regions/jJi3OX9PAkGnM9twXWNZ",
+    "geolocationPoint": {
+      "latitude": 20.6126,
+      "longitude": -3.6047
+    }
+  },
+  {
+    "uid": "sO6SCV7912LCoV7VY8ax",
+    "description": "Taoudéni, Mali",
+    "name": "Boudje-beha",
+    "type": "departments",
+    "headUid": "regions/jJi3OX9PAkGnM9twXWNZ",
+    "geolocationPoint": {
+      "latitude": 18.55,
+      "longitude": -2.75
+    }
+  },
+  {
+    "uid": "4Zua4dBifMsRIFnP2NAh",
+    "description": "Kidal, Mali",
+    "name": "Abeibara",
+    "type": "departments",
+    "headUid": "regions/ur7PCoMrGgrlDWYd2hNR",
+    "geolocationPoint": {
+      "latitude": 19.3494891,
+      "longitude": 1.8443903
+    }
+  },
+  {
+    "uid": "C6Ltggt3wnPyQZSoiJhG",
+    "description": "Kidal, Mali",
+    "name": "Tin-Essako",
+    "type": "departments",
+    "headUid": "regions/ur7PCoMrGgrlDWYd2hNR",
+    "geolocationPoint": {
+      "latitude": 19.5628,
+      "longitude": 1.84639
+    }
+  },
+  {
+    "uid": "U048BDQgxkf9N83AeOgR",
+    "description": "Kidal, Mali",
+    "name": "Anefis",
+    "type": "departments",
+    "headUid": "regions/ur7PCoMrGgrlDWYd2hNR",
+    "geolocationPoint": {
+      "latitude": 18.04589,
+      "longitude": 0.602897
+    }
+  },
+  {
+    "uid": "dkOwWDBAPw0MxGNzsVOR",
+    "description": "Kidal, Mali",
+    "name": "Tessalitt",
+    "type": "departments",
+    "headUid": "regions/ur7PCoMrGgrlDWYd2hNR",
+    "geolocationPoint": {
+      "latitude": 20.2011,
+      "longitude": 1.0125
+    }
+  },
+  {
+    "uid": "1t6DFlg1vUEubae8y4xE",
+    "description": "Mopti, Mali",
+    "name": "Youwarou",
+    "type": "departments",
+    "headUid": "regions/wnk2hz59vAlo2ivlscCN",
+    "geolocationPoint": {
+      "latitude": 15.3706088,
+      "longitude": -4.2615466
+    }
+  },
+  {
+    "uid": "MXqe4g6Pt93k8zQisfHn",
+    "description": "Mopti, Mali",
+    "name": "Djenné",
+    "type": "departments",
+    "headUid": "regions/wnk2hz59vAlo2ivlscCN",
+    "geolocationPoint": {
+      "latitude": 13.9051631,
+      "longitude": -4.5548581
+    }
+  },
+  {
+    "uid": "ymcT7WiujH9oXHHIUrgH",
+    "description": "Mopti, Mali",
+    "name": "Tenenkou",
+    "type": "departments",
+    "headUid": "regions/wnk2hz59vAlo2ivlscCN",
+    "geolocationPoint": {
+      "latitude": 14.4547633,
+      "longitude": -4.9164995
+    }
+  },
+  {
+    "uid": "YbMSEU5d4W3jMklScYUH",
+    "description": "Nara, Mali",
+    "name": "Mourdiah",
+    "type": "departments",
+    "headUid": "regions/wdOkJSsbFTMjZEhN6uA4",
+    "geolocationPoint": {
+      "latitude": 14.4719244,
+      "longitude": -7.4716314
+    }
+  },
+  {
+    "uid": "v4msYLPldK4DwaRzdDEb",
+    "description": "Nara, Mali",
+    "name": "Dilly",
+    "type": "departments",
+    "headUid": "regions/wdOkJSsbFTMjZEhN6uA4",
+    "geolocationPoint": {
+      "latitude": 14.9994816,
+      "longitude": -7.6688508
+    }
+  },
+  {
+    "uid": "zqSCeEPZ0agC0UlJdrjc",
+    "description": "Nara, Mali",
+    "name": "Balle",
+    "type": "departments",
+    "headUid": "regions/wdOkJSsbFTMjZEhN6uA4",
+    "geolocationPoint": {
+      "latitude": 15.2928,
+      "longitude": -8.51444
+    }
+  },
+  {
+    "uid": "5r4nLfhMnmpJbDvjwVFw",
+    "description": "Koulikoro, Mali",
+    "name": "Banamba",
+    "type": "departments",
+    "headUid": "regions/iBYTSFfjtQIJSECBsVr5",
+    "geolocationPoint": {
+      "latitude": 13.5485166,
+      "longitude": -7.446532
+    }
+  },
+  {
+    "uid": "CmMqpiBuiExgloOXZI99",
+    "description": "Koulikoro, Mali",
+    "name": "Kati",
+    "type": "departments",
+    "headUid": "regions/iBYTSFfjtQIJSECBsVr5",
+    "geolocationPoint": {
+      "latitude": 12.7389091,
+      "longitude": -8.0684052
+    }
+  },
+  {
+    "uid": "fQv1SL96XotLxbWoAgAJ",
+    "description": "Koulikoro, Mali",
+    "name": "Sanankoroba",
+    "type": "departments",
+    "headUid": "regions/iBYTSFfjtQIJSECBsVr5",
+    "geolocationPoint": {
+      "latitude": 12.3950403,
+      "longitude": -7.9393236
+    }
+  },
+  {
+    "uid": "lihJde7iABpFiK7olnS1",
+    "description": "Koulikoro, Mali",
+    "name": "Kangaba",
+    "type": "departments",
+    "headUid": "regions/iBYTSFfjtQIJSECBsVr5",
+    "geolocationPoint": {
+      "latitude": 11.9415411,
+      "longitude": -8.4138589
+    }
+  },
+  {
+    "uid": "oQ4dgs99yuzq0YICLkX6",
+    "description": "Koulikoro, Mali",
+    "name": "Kolokani",
+    "type": "departments",
+    "headUid": "regions/iBYTSFfjtQIJSECBsVr5",
+    "geolocationPoint": {
+      "latitude": 13.577326,
+      "longitude": -8.031273
+    }
+  },
+  {
+    "uid": "6DAWtnUwU0srzDSeYORQ",
+    "description": "Bamako, Mali",
+    "name": "Commune 8",
+    "type": "capitalCityMunicipality",
+    "headUid": "regions/i2LQwuLVo07No6juvwAq/departments/U0MZfry5VcnJWc4sC2ls",
+    "geolocationPoint": {
+      "latitude": 12.5638507,
+      "longitude": -8.0552116
+    }
+  },
+  {
+    "uid": "75DsRspWvOR2a9VzGzSh",
+    "description": "Bamako, Mali",
+    "name": "Commune 1",
+    "type": "capitalCityMunicipality",
+    "headUid": "regions/i2LQwuLVo07No6juvwAq/departments/U0MZfry5VcnJWc4sC2ls",
+    "geolocationPoint": {
+      "latitude": 12.6658,
+      "longitude": -7.9446
+    }
+  },
+  {
+    "uid": "BYZfJtSQ0WWvU4rn8hWF",
+    "description": "Bamako, Mali",
+    "name": "Commune 6",
+    "type": "capitalCityMunicipality",
+    "headUid": "regions/i2LQwuLVo07No6juvwAq/departments/U0MZfry5VcnJWc4sC2ls",
+    "geolocationPoint": {
+      "latitude": 12.6012134,
+      "longitude": -7.9664397
+    }
+  },
+  {
+    "uid": "DLNCNv3RFdbbyGzd7eQU",
+    "description": "Bamako, Mali",
+    "name": "Commune 5",
+    "type": "capitalCityMunicipality",
+    "headUid": "regions/i2LQwuLVo07No6juvwAq/departments/U0MZfry5VcnJWc4sC2ls",
+    "geolocationPoint": {
+      "latitude": 12.583,
+      "longitude": -8.0024
+    }
+  },
+  {
+    "uid": "MmYmQeYZUuUZha3Angv3",
+    "description": "Bamako, Mali",
+    "name": "Commune 4",
+    "type": "capitalCityMunicipality",
+    "headUid": "regions/i2LQwuLVo07No6juvwAq/departments/U0MZfry5VcnJWc4sC2ls",
+    "geolocationPoint": {
+      "latitude": 12.6275259,
+      "longitude": -8.0459887
+    }
+  },
+  {
+    "uid": "NtRDpmwFvnV7KBPA4en9",
+    "description": "Bamako, Mali",
+    "name": "Commune 7",
+    "type": "capitalCityMunicipality",
+    "headUid": "regions/i2LQwuLVo07No6juvwAq/departments/U0MZfry5VcnJWc4sC2ls",
+    "geolocationPoint": {
+      "latitude": 12.626678,
+      "longitude": -8.0352433
+    }
+  },
+  {
+    "uid": "cFhe8n7CZnOqzc0bKBld",
+    "description": "Bamako, Mali",
+    "name": "Commune 3",
+    "type": "capitalCityMunicipality",
+    "headUid": "regions/i2LQwuLVo07No6juvwAq/departments/U0MZfry5VcnJWc4sC2ls",
+    "geolocationPoint": {
+      "latitude": 12.6543,
+      "longitude": -8.0153
+    }
+  },
+  {
+    "uid": "cxD3jUvgwRds2G8XWIHk",
+    "description": "Bamako, Mali",
+    "name": "Commune 9",
+    "type": "capitalCityMunicipality",
+    "headUid": "regions/i2LQwuLVo07No6juvwAq/departments/U0MZfry5VcnJWc4sC2ls",
+    "geolocationPoint": {
+      "latitude": 12.7129103,
+      "longitude": -7.9721584
+    }
+  },
+  {
+    "uid": "nfLeZlMBRLsjEylN4GXu",
+    "description": "Bamako, Mali",
+    "name": "Commune 2",
+    "type": "capitalCityMunicipality",
+    "headUid": "regions/i2LQwuLVo07No6juvwAq/departments/U0MZfry5VcnJWc4sC2ls",
+    "geolocationPoint": {
+      "latitude": 12.6485,
+      "longitude": -7.9778
+    }
+  },
+  {
+    "uid": "tvoEdn186D240zHuyTmJ",
+    "description": "Bamako, Mali",
+    "name": "Commune 10",
+    "type": "capitalCityMunicipality",
+    "headUid": "regions/i2LQwuLVo07No6juvwAq/departments/U0MZfry5VcnJWc4sC2ls",
+    "geolocationPoint": {
+      "latitude": 12.6791204,
+      "longitude": -7.8904689
+    }
+  },
+  {
+    "uid": "W3UbKEqFXwVvAg2Tx1kn",
+    "description": "Kayes, Mali",
+    "name": "Bafoulabé",
+    "type": "departments",
+    "headUid": "regions/ytOj3tiO9p0ZFNKOnGTb",
+    "geolocationPoint": {
+      "latitude": 13.8092578,
+      "longitude": -10.8695844
+    }
+  },
+  {
+    "uid": "miLQwz2Cl6KTfDVNq892",
+    "description": "Kayes, Mali",
+    "name": "Aourou",
+    "type": "departments",
+    "headUid": "regions/ytOj3tiO9p0ZFNKOnGTb",
+    "geolocationPoint": {
+      "latitude": 14.9700966,
+      "longitude": -11.5959406
+    }
+  },
+  {
+    "uid": "ytOj3tiO9p0ZFNKOnGTb",
+    "description": "Mali",
+    "name": "Kayes",
+    "type": "region",
+    "headUid": "countries/9bf7Iu82EAxXbxATKVuf",
+    "geolocationPoint": {
+      "latitude": 14.43468,
+      "longitude": -11.447754
+    }
+  },
+  {
+    "uid": "zmVTt3fkXeZAoBh63g6u",
+    "description": "Kayes, Mali",
+    "name": "Yélimané",
+    "type": "departments",
+    "headUid": "regions/ytOj3tiO9p0ZFNKOnGTb",
+    "geolocationPoint": {
+      "latitude": 15.119904,
+      "longitude": -10.6068283
+    }
+  }
+]

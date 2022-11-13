@@ -1,0 +1,116 @@
+[
+    {
+        "uid": "DPnCyL0SpzBORXB4JHLu",
+        "description": "Centre Nationale de Transfusions Sanguines de Quinzambougou, Bamako",
+        "name": "CNTS de Quinzambougou",
+        "type": "CNTS",
+        "priorityLevel": "CRITICAL",
+        "location": {
+            "reference": "jaCIBqql7oEVeZhFHbQy",
+            "name": "Quinzambougou"
+        },
+        "attachedCity": {
+            "reference": "i2LQwuLVo07No6juvwAq",
+            "name": "Bamako"
+        },
+        "geolocationPoint": {
+            "latitude": 12.64970,
+            "longitude": -7.98212
+        }
+    },
+    {
+        "uid": "1Gd8rU12VNC2Em4NkYPQ",
+        "description": "Centre Hospitalier Universitaire Point G, Bamako",
+        "name": "CHU de Point G",
+        "type": "CHU",
+        "priorityLevel": "HIGH",
+        "location": {
+            "reference": "y61Odqqajb2RYI3lYwYh",
+            "name": "Point G"
+        },
+        "attachedCity": {
+            "reference": "i2LQwuLVo07No6juvwAq",
+            "name": "Bamako"
+        },
+        "geolocationPoint": {
+            "latitude": 12.6710621,
+            "longitude": -7.997467
+        }
+    },
+    {
+        "uid": "dcPXn0UNma2rPEOt7nfD",
+        "description": "Centre Hospitalo-Universitaire Gabriel Touré, Bamako",
+        "name": "CHU Gabriel Touré",
+        "type": "CHU",
+        "priorityLevel": "HIGH",
+        "location": {
+            "reference": "5HMT59IuZbU9wLzO5hjI",
+            "name": "Bagadadji"
+        },
+        "attachedCity": {
+            "reference": "i2LQwuLVo07No6juvwAq",
+            "name": "Bamako"
+        },
+        "geolocationPoint": {
+            "latitude": 12.6510767,
+            "longitude": -7.9990887
+        }
+    },
+    {
+        "uid": "xAScohnTRy7nSrRJq3J0",
+        "description": "Hôpital du Mali, Missabougou, Bamako",
+        "name": "Hôpital du Mali",
+        "type": "EPH",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "8WF7bZKfuWuihsGrbZAk",
+            "name": "Missabougou"
+        },
+        "attachedCity": {
+            "reference": "i2LQwuLVo07No6juvwAq",
+            "name": "Bamako"
+        },
+        "geolocationPoint": {
+            "latitude": 12.6347,
+            "longitude": -7.9106
+        }
+    },
+    {
+        "uid": "bpyQHOKN6W3SzVmrztX9",
+        "description": "Hôpital Régional de Tombouctou",
+        "name": "Hôpital de Tombouctou",
+        "type": "EPH",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "BLsUbVFIqlluQCTR9k41",
+            "name": "Tombouctou"
+        },
+        "attachedCity": {
+            "reference": "BLsUbVFIqlluQCTR9k41",
+            "name": "Tombouctou"
+        },
+        "geolocationPoint": {
+            "latitude": 16.7675369,
+            "longitude": -3.0070666
+        }
+    },
+    {
+        "uid": "YeF6BemOU3shMP1bqWIH",
+        "description": "Hôpital Régional de Sikasso",
+        "name": "Hôpital de Sikasso",
+        "type": "EPH",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "8MKWeNZqYDX1sKByvgPh",
+            "name": "Sikasso"
+        },
+        "attachedCity": {
+            "reference": "8MKWeNZqYDX1sKByvgPh",
+            "name": "Sikasso"
+        },
+        "geolocationPoint": {
+            "latitude": 11.3061552,
+            "longitude": -5.6885593
+        }
+    }
+]
