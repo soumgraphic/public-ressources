@@ -1,5 +1,16 @@
 [
   {
+    "uid": "IUkcQ8Oby7nnD4veAB8K",
+    "description": "Commune 5, Bamako",
+    "name": "Soumaila bougou le trop bon test",
+    "type": "district",
+    "headUid": "municipalities/DLNCNv3RFdbbyGzd7eQU",
+    "geolocationPoint": {
+      "latitude": 12.6126666,
+      "longitude": -8.0036043
+    }
+  },
+  {
     "uid": "IUkcQ8Oby7nnD4veAB9B",
     "description": "Commune 5, Bamako",
     "name": "Torokorobougou",
