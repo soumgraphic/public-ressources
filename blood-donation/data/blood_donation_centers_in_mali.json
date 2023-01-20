@@ -39,13 +39,13 @@
     },
     {
         "uid": "dcPXn0UNma2rPEOt7nfD",
-        "description": "Centre Hospitalo-Universitaire Gabriel Touré, Bamako",
+        "description": "Centre Hospitalo-Universitaire Gabriel Touré, Medina coura, Bamako",
         "name": "CHU Gabriel Touré",
         "type": "CHU",
         "priorityLevel": "HIGH",
         "location": {
-            "reference": "5HMT59IuZbU9wLzO5hjI",
-            "name": "Bagadadji"
+            "reference": "6WJjgWyZOM4HfsU4KBF2",
+            "name": "Medina coura"
         },
         "attachedCity": {
             "reference": "i2LQwuLVo07No6juvwAq",
@@ -58,7 +58,7 @@
     },
     {
         "uid": "xAScohnTRy7nSrRJq3J0",
-        "description": "Hôpital du Mali, Missabougou, Bamako",
+        "description": "Missabougou, Bamako",
         "name": "Hôpital du Mali",
         "type": "EPH",
         "priorityLevel": "MEDIUM",
@@ -73,6 +73,63 @@
         "geolocationPoint": {
             "latitude": 12.6347,
             "longitude": -7.9106
+        }
+    },
+    {
+        "uid": "3LPVWWvegTTXFyD4URuf",
+        "description": "Centre Hospitalier Mère-Enfant, Hamdallaye, Bamako",
+        "name": "Hôpital Le Luxembourg",
+        "type": "CHU",
+        "priorityLevel": "HIGH",
+        "location": {
+            "reference": "6LWtw19GfdoGeQsMZ0W2",
+            "name": "Hamdallaye"
+        },
+        "attachedCity": {
+            "reference": "i2LQwuLVo07No6juvwAq",
+            "name": "Bamako"
+        },
+        "geolocationPoint": {
+            "latitude": 12.6378191,
+            "longitude": -8.0426753
+        }
+    },
+    {
+        "uid": "2ZsTIUvyTYkNynSW5J8d",
+        "description": "Centre Hospitalier Universitaire D'odontologie et de Stomatologie (CHU-OS), Bamako-Coura, Bamako",
+        "name": "CHU Odonto",
+        "type": "CHU",
+        "priorityLevel": "HIGH",
+        "location": {
+            "reference": "nxmIxtinsEZfWOmr1kXL",
+            "name": "Bamako-Coura"
+        },
+        "attachedCity": {
+            "reference": "i2LQwuLVo07No6juvwAq",
+            "name": "Bamako"
+        },
+        "geolocationPoint": {
+            "latitude": 12.6392513,
+            "longitude": -8.0050507
+        }
+    },
+    {
+        "uid": "B4OgP3FZttZskC1D9ad9",
+        "description": "American Hospital, Badalabougou, Bamako",
+        "name": "Golden Life",
+        "type": "CLINIC",
+        "priorityLevel": "LOW",
+        "location": {
+            "reference": "KRndfukXbgmkySWXT6Th",
+            "name": "Badalabougou"
+        },
+        "attachedCity": {
+            "reference": "i2LQwuLVo07No6juvwAq",
+            "name": "Bamako"
+        },
+        "geolocationPoint": {
+            "latitude": 12.6236178,
+            "longitude": -7.9975388
         }
     },
     {
