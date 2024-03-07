@@ -152,6 +152,25 @@
         }
     },
     {
+        "uid": "5DsGh2NqWt4X7KmYpFjL",
+        "description": "Centre de Santé de Référence de Tombouctou",
+        "name": "CSREF de Tombouctou",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "BLsUbVFIqlluQCTR9k41",
+            "name": "Tombouctou"
+        },
+        "attachedCity": {
+            "reference": "BLsUbVFIqlluQCTR9k41",
+            "name": "Tombouctou"
+        },
+        "geolocationPoint": {
+            "latitude": 16.7667,
+            "longitude": -3.0167
+        }
+    },
+    {
         "uid": "YeF6BemOU3shMP1bqWIH",
         "description": "Hôpital Régional de Sikasso",
         "name": "Hôpital de Sikasso",
@@ -168,6 +187,234 @@
         "geolocationPoint": {
             "latitude": 11.3061552,
             "longitude": -5.6885593
+        }
+    },
+    {
+        "uid": "92ghkQUhcEGpe2uWz5WT",
+        "description": "CENTRE HOSPITALIER UNIVERSITAIRE DE KATI",
+        "name": "CHU de Kati",
+        "type": "CHU",
+        "priorityLevel": "HIGH",
+        "location": {
+            "reference": "CmMqpiBuiExgloOXZI99",
+            "name": "Kati"
+        },
+        "attachedCity": {
+            "reference": "iBYTSFfjtQIJSECBsVr5",
+            "name": "Koulikoro"
+        },
+        "geolocationPoint": {
+            "latitude": 12.7274967,
+            "longitude": -8.0605645
+        }
+    },
+    {
+        "uid": "4WgZh6KtYq3X5JsDtFnB",
+        "description": "Centre Hospitalier Universitaire de Koulikoro",
+        "name": "CHU de Koulikoro",
+        "type": "CHU",
+        "priorityLevel": "HIGH",
+        "location": {
+            "reference": "iBYTSFfjtQIJSECBsVr5",
+            "name": "Koulikoro"
+        },
+        "attachedCity": {
+            "reference": "iBYTSFfjtQIJSECBsVr5",
+            "name": "Koulikoro"
+        },
+        "geolocationPoint": {
+            "latitude": 13.03333,
+            "longitude": -8.23333
+        }
+    },
+    {
+        "uid": "9VbTf6KqYh3XmZ8JwSpR",
+        "description": "Centre de Santé de Référence de Koulikoro",
+        "name": "CSREF de Koulikoro",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "iBYTSFfjtQIJSECBsVr5",
+            "name": "Koulikoro"
+        },
+        "attachedCity": {
+            "reference": "iBYTSFfjtQIJSECBsVr5",
+            "name": "Koulikoro"
+        },
+        "geolocationPoint": {
+            "latitude": 13.0375,
+            "longitude": -8.2375
+        }
+    },
+    {
+        "uid": "4M7eR3FzJxQtDWaY98pE",
+        "description": "HOPITAL FOUSSEYNI DAOU DE KAYES",
+        "name": "EPH FOUSSEYNI DAOU",
+        "type": "EPH",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "ytOj3tiO9p0ZFNKOnGTb",
+            "name": "Kayes"
+        },
+        "attachedCity": {
+            "reference": "ytOj3tiO9p0ZFNKOnGTb",
+            "name": "Kayes"
+        },
+        "geolocationPoint": {
+            "latitude": 14.4341609,
+            "longitude": -11.4253152
+        }
+    },
+    {
+        "uid": "8GhBn5JsDt9Z3fR6TqYp",
+        "description": "Centre Hospitalier Universitaire de Kayes",
+        "name": "CHU de Kayes",
+        "type": "CHU",
+        "priorityLevel": "HIGH",
+        "location": {
+            "reference": "ytOj3tiO9p0ZFNKOnGTb",
+            "name": "Kayes"
+        },
+        "attachedCity": {
+            "reference": "ytOj3tiO9p0ZFNKOnGTb",
+            "name": "Kayes"
+        },
+        "geolocationPoint": {
+            "latitude": 14.45833,
+            "longitude": -11.45833
+        }
+    },
+    {
+        "uid": "7GtFj2NsQw5D8VbRmHpL",
+        "description": "Centre de Santé de Référence de Kayes",
+        "name": "CSREF de Kayes",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "ytOj3tiO9p0ZFNKOnGTb",
+            "name": "Kayes"
+        },
+        "attachedCity": {
+            "reference": "ytOj3tiO9p0ZFNKOnGTb",
+            "name": "Kayes"
+        },
+        "geolocationPoint": {
+            "latitude": 14.4625,
+            "longitude": 11.4625
+        }
+    },
+    {
+        "uid": "1FgJm6LsGh9Y2wX5PtZe",
+        "description": "HOPITAL Mere Enfant de Koutiala",
+        "name": "L'hopital Mere Enfant",
+        "type": "CHU",
+        "priorityLevel": "HIGH",
+        "location": {
+            "reference": "WlXRvmNpB0Eh9liXfw2G",
+            "name": "Koutiala"
+        },
+        "attachedCity": {
+            "reference": "WlXRvmNpB0Eh9liXfw2G",
+            "name": "Koutiala"
+        },
+        "geolocationPoint": {
+            "latitude": 12.41667,
+            "longitude": -9.44444
+        }
+    },
+    {
+        "uid": "7KdRq3AbWf6Y8hT5JpNs",
+        "description": "CSREF de Koutiala",
+        "name": "CSREF de Koutiala",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "WlXRvmNpB0Eh9liXfw2G",
+            "name": "Koutiala"
+        },
+        "attachedCity": {
+            "reference": "WlXRvmNpB0Eh9liXfw2G",
+            "name": "Koutiala"
+        },
+        "geolocationPoint": {
+            "latitude": 12.40833,
+            "longitude": -9.45833
+        }
+    },
+    {
+        "uid": "6RdQk9HbTa8Z4pY3XmKs",
+        "description": "HOPITAL REGIONAL NIANANKORO FOMBA",
+        "name": "CHU Nianankoro Fomba",
+        "type": "CHU",
+        "priorityLevel": "HIGH",
+        "location": {
+            "reference": "i4H2o6L1R8rtO56PyHRp",
+            "name": "Ségou"
+        },
+        "attachedCity": {
+            "reference": "i4H2o6L1R8rtO56PyHRp",
+            "name": "Ségou"
+        },
+        "geolocationPoint": {
+            "latitude": 13.44487,
+            "longitude": -6.25983
+        }
+    },
+    {
+        "uid": "9DfGh3NaWt5Y7kQ2XmRp",
+        "description": "Centre Hospitalier Universitaire de Ségou",
+        "name": "CHU de Segou",
+        "type": "CHU",
+        "priorityLevel": "HIGH",
+        "location": {
+            "reference": "i4H2o6L1R8rtO56PyHRp",
+            "name": "Ségou"
+        },
+        "attachedCity": {
+            "reference": "i4H2o6L1R8rtO56PyHRp",
+            "name": "Ségou"
+        },
+        "geolocationPoint": {
+            "latitude": 13.4625,
+            "longitude": -4.24583
+        }
+    },
+    {
+        "uid": "2BgNy6VaQt7K5dR9TsJm",
+        "description": "CSREF de Ségou",
+        "name": "CSREF de Ségou",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "i4H2o6L1R8rtO56PyHRp",
+            "name": "Ségou"
+        },
+        "attachedCity": {
+            "reference": "i4H2o6L1R8rtO56PyHRp",
+            "name": "Ségou"
+        },
+        "geolocationPoint": {
+            "latitude": 13.45833,
+            "longitude": -4.23333
+        }
+    },
+    {
+        "uid": "4MdFh7JnVb9Z3mX8QwPt",
+        "description": "Hôpital Somino Dolo",
+        "name": "CHU Somino Dolo",
+        "type": "CHU",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "wnk2hz59vAlo2ivlscCN",
+            "name": "Mopti"
+        },
+        "attachedCity": {
+            "reference": "wnk2hz59vAlo2ivlscCN",
+            "name": "Mopti"
+        },
+        "geolocationPoint": {
+            "latitude": 14.50833,
+            "longitude": -4.20833
         }
     }
 ]
