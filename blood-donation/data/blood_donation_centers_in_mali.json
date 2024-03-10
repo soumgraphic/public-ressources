@@ -147,8 +147,8 @@
             "name": "Tombouctou"
         },
         "geolocationPoint": {
-            "latitude": 16.7675369,
-            "longitude": -3.0070666
+            "latitude": 16.7667446,
+            "longitude": -3.0050923
         }
     },
     {
@@ -166,8 +166,8 @@
             "name": "Tombouctou"
         },
         "geolocationPoint": {
-            "latitude": 16.7667,
-            "longitude": -3.0167
+            "latitude": 16.7746112,
+            "longitude": -3.0087358
         }
     },
     {
@@ -211,7 +211,7 @@
     {
         "uid": "4WgZh6KtYq3X5JsDtFnB",
         "description": "Centre Hospitalier Universitaire de Koulikoro",
-        "name": "CHU de Koulikoro",
+        "name": "Hopital de Koulikoro",
         "type": "CHU",
         "priorityLevel": "HIGH",
         "location": {
@@ -223,8 +223,8 @@
             "name": "Koulikoro"
         },
         "geolocationPoint": {
-            "latitude": 13.03333,
-            "longitude": -8.23333
+            "latitude": 12.8667756,
+            "longitude": -7.5599420
         }
     },
     {
@@ -242,9 +242,9 @@
             "name": "Koulikoro"
         },
         "geolocationPoint": {
-            "latitude": 13.0375,
-            "longitude": -8.2375
-        }
+            "latitude": 12.876272,
+            "longitude": -7.550122
+        } 
     },
     {
         "uid": "4M7eR3FzJxQtDWaY98pE",
@@ -363,7 +363,7 @@
     {
         "uid": "9DfGh3NaWt5Y7kQ2XmRp",
         "description": "Centre Hospitalier Universitaire de Ségou",
-        "name": "CHU de Segou",
+        "name": "Hopital de Segou",
         "type": "CHU",
         "priorityLevel": "HIGH",
         "location": {
@@ -400,8 +400,8 @@
     },
     {
         "uid": "4MdFh7JnVb9Z3mX8QwPt",
-        "description": "Hôpital Somino Dolo",
-        "name": "CHU Somino Dolo",
+        "description": "Hôpital Sominé Dolo",
+        "name": "Hopital Regional de Mopti",
         "type": "CHU",
         "priorityLevel": "MEDIUM",
         "location": {
@@ -416,5 +416,766 @@
             "latitude": 14.50833,
             "longitude": -4.20833
         }
+    },
+    {
+        "uid": "3OQB4BHLYKq4ygRW3MYf",
+        "description": "Centre de Santé de Référence de Diré",
+        "name": "CSREF de Diré",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "geESfoDuq9G9HsDjNlbo",
+            "name": "Diré"
+        },
+        "attachedCity": {
+            "reference": "BLsUbVFIqlluQCTR9k41",
+            "name": "Tombouctou"
+        },
+        "geolocationPoint": {
+            "latitude": 16.9167,
+            "longitude": -3.6167
+        }
+    },
+    {
+        "uid": "EtAemUELjTjhtwZwovng",
+        "description": "Centre de Santé de Référence de Gourma-Rharous",
+        "name": "CSREF de Gourma-Rharous",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "q3HIWbJnaQiJJAkHhN7L",
+            "name": "Gourma-Rharous"
+        },
+        "attachedCity": {
+            "reference": "BLsUbVFIqlluQCTR9k41",
+            "name": "Tombouctou"
+        },
+        "geolocationPoint": {
+            "latitude": 16.87778,
+            "longitude": -1.92306
+        }
+    },
+    {
+        "uid": "PJQ64I3LaDSB7sgu3JzC",
+        "description": "Centre de Santé de Référence de Niafunké",
+        "name": "CSREF de Niafunké",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "SCdGRc6fYRJmvw1hUOUq",
+            "name": "Niafunké"
+        },
+        "attachedCity": {
+            "reference": "BLsUbVFIqlluQCTR9k41",
+            "name": "Tombouctou"
+        },
+        "geolocationPoint": {
+            "latitude": 15.9322,
+            "longitude": -3.9906
+        }
+    },
+    {
+        "uid": "ru1PDGZRiZSX4kWXyxRy",
+        "description": "Centre de Santé de Référence CSREF de Bougouni",
+        "name": "CSREF de Bougouni",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "JwpFQe63L5p3FBgZsiks",
+            "name": "Bougouni"
+        },
+        "attachedCity": {
+            "reference": "JwpFQe63L5p3FBgZsiks",
+            "name": "Bougouni"
+        },
+        "geolocationPoint": {
+            "latitude": 11.418616,
+            "longitude": -7.483469
+        }
+    },
+    {
+        "uid": "rJrOkL9Zmccc6IniyfS2",
+        "description": "Centre de Santé de Référence de Nioro",
+        "name": "CSREF de Nioro",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "MW8FfNF3glhHGXIo89G7",
+            "name": "Nioro"
+        },
+        "attachedCity": {
+            "reference": "MW8FfNF3glhHGXIo89G7",
+            "name": "Nioro"
+        },
+        "geolocationPoint": {
+            "latitude": 15.438665,
+            "longitude": -9.533806
+        }
+    },
+    {
+        "uid": "Wd8rijgBbSEGacdtcwdk",
+        "description": "Centre de Santé de Référence de Yélimané",
+        "name": "CSREF de Yélimané",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "zmVTt3fkXeZAoBh63g6u",
+            "name": "Yélimané"
+        },
+        "attachedCity": {
+            "reference": "ytOj3tiO9p0ZFNKOnGTb",
+            "name": "Kayes"
+        },
+        "geolocationPoint": {
+            "latitude": 15.1199592,
+            "longitude": -10.571904
+        }
+    },
+    {
+        "uid": "nOO13tCcPuc78vosjYGM",
+        "description": "Centre de Santé de Référence de Banamba",
+        "name": "CSREF de Banamba",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "5r4nLfhMnmpJbDvjwVFw",
+            "name": "Banamba"
+        },
+        "attachedCity": {
+            "reference": "iBYTSFfjtQIJSECBsVr5",
+            "name": "Koulikoro"
+        },
+        "geolocationPoint": {
+            "latitude": 13.5483735,
+            "longitude": -7.4463868
+        }
+    },
+    {
+        "uid": "mzBYPHNXrnnawF6DfkAH",
+        "description": "Centre de Santé de Référence de Kolokani",
+        "name": "HÔPITAL DE DISTRICT DE KOLOKANI",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "oQ4dgs99yuzq0YICLkX6",
+            "name": "Kolokani"
+        },
+        "attachedCity": {
+            "reference": "iBYTSFfjtQIJSECBsVr5",
+            "name": "Koulikoro"
+        },
+        "geolocationPoint": {
+            "latitude": 13.590033,
+            "longitude": -8.037588 
+        }
+    },
+    {
+        "uid": "CNApPPtQNOdAVHJVrEK0",
+        "description": "Centre de Santé de Référence de Sikasso",
+        "name": "CSREF de Sikasso",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "8MKWeNZqYDX1sKByvgPh",
+            "name": "Sikasso"
+        },
+        "attachedCity": {
+            "reference": "8MKWeNZqYDX1sKByvgPh",
+            "name": "Sikasso"
+        },
+        "geolocationPoint": {
+            "latitude": 11.316999,
+            "longitude": -5.668377
+        }
+    },
+    {
+        "uid": "QQQJyGWWlyuhGm7vw8Ry",
+        "description": "Centre de Santé de Référence de Kadiolo",
+        "name": "CSREF de Kadiolo",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "VzzXDcx31bGY9N8qDgo0",
+            "name": "Kadiolo"
+        },
+        "attachedCity": {
+            "reference": "8MKWeNZqYDX1sKByvgPh",
+            "name": "Sikasso"
+        },
+        "geolocationPoint": {
+            "latitude": 10.560901,
+            "longitude": -5.762525
+        }
+    },
+    {
+        "uid": "5TaEBYRYA8jQqNFA6wMd",
+        "description": "Centre de Santé de Référence de Yanfolila",
+        "name": "CSREF de Yanfolila",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "bH4CAaRPB7kHpRj59nb4",
+            "name": "Yanfolila"
+        },
+        "attachedCity": {
+            "reference": "JwpFQe63L5p3FBgZsiks",
+            "name": "Bougouni"
+        },
+        "geolocationPoint": {
+            "latitude": 11.166559,
+            "longitude": -8.166758
+        }
+    },
+    {
+        "uid": "WwHGycura94V5LyYobN9",
+        "description": "Centre de Santé de Référence de Barouéli",
+        "name": "CSREF de Barouéli",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "X0L2XnoU6qMpR4Ph6z80",
+            "name": "Baroueli"
+        },
+        "attachedCity": {
+            "reference": "i4H2o6L1R8rtO56PyHRp",
+            "name": "Ségou"
+        },
+        "geolocationPoint": {
+            "latitude": 13.070475,
+            "longitude": -6.838197 
+        }
+    },
+    {
+        "uid": "f0OZBE3SEmFABQPuOULG",
+        "description": "Centre de Santé de Référence de Bla",
+        "name": "CSREF de Bla",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "9clNbcii4sPNACfLeoyo",
+            "name": "Bla"
+        },
+        "attachedCity": {
+            "reference": "9VfYAAUBJKqrGVOiK7F1",
+            "name": "San"
+        },
+        "geolocationPoint": {
+            "latitude": 12.9442645,
+            "longitude": -5.7606661
+        }
+    },
+    {
+        "uid": "Na52nBNBiXvdNDfrRgxA",
+        "description": "Centre de Santé de Référence de Macina",
+        "name": "CSREF de Macina",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "ImTwvVik70tk4k1R7wsl",
+            "name": "Macina"
+        },
+        "attachedCity": {
+            "reference": "i4H2o6L1R8rtO56PyHRp",
+            "name": "Ségou"
+        },
+        "geolocationPoint": {
+            "latitude": 13.119820,
+            "longitude": -6.832715
+        } 
+    },
+    {
+        "uid": "tExWl2UL3aA0NKtvoE1M",
+        "description": "Centre de Santé de Référence de Niono",
+        "name": "Hopital de Niono",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "dPJ8AMOtX6s9DDIwNARL",
+            "name": "Niono"
+        },
+        "attachedCity": {
+            "reference": "i4H2o6L1R8rtO56PyHRp",
+            "name": "Ségou"
+        },
+        "geolocationPoint": {
+            "latitude": 14.251719,
+            "longitude": -5.986810
+        }  
+    },
+    {
+        "uid": "33hFSAFmQFeLtDIqvwIg",
+        "description": "Centre de Santé de Référence de San",
+        "name": "CSREF de San",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "9VfYAAUBJKqrGVOiK7F1",
+            "name": "San"
+        },
+        "attachedCity": {
+            "reference": "9VfYAAUBJKqrGVOiK7F1",
+            "name": "San"
+        },
+        "geolocationPoint": {
+            "latitude": 13.309769,
+            "longitude": -4.892385
+        }
+    },
+    {
+        "uid": "Z6j6tcSpDF88xBSXdsZd",
+        "description": "Centre de Santé de Référence de Mopti",
+        "name": "Hôpital de District de Mopti",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "wnk2hz59vAlo2ivlscCN",
+            "name": "Mopti"
+        },
+        "attachedCity": {
+            "reference": "wnk2hz59vAlo2ivlscCN",
+            "name": "Mopti"
+        },
+        "geolocationPoint": {
+            "latitude": 14.504872,
+            "longitude": -4.196492
+        }
+    },
+    {
+        "uid": "KGXFX9WFhKNz2EfxI1Ms",
+        "description": "Centre de Santé de Référence de Bandiagara",
+        "name": "CSREF de Bandiagara",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "KqI6RXKXdsfy1TTTjmcz",
+            "name": "Bandiagara"
+        },
+        "attachedCity": {
+            "reference": "Pjj3oAEORW7I1TDCv8f9",
+            "name": "Bandiagara"
+        },
+        "geolocationPoint": {
+            "latitude": 14.3507682,
+            "longitude": -3.6146396
+        }
+    },
+    {
+        "uid": "xpJTLhveR2S0UHWE57w2",
+        "description": "Centre de Santé de Référence de Douentza",
+        "name": "Hopital de Douentza",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "QWzoOQSNwgfHtGyoEhvQ",
+            "name": "Douentza"
+        },
+        "attachedCity": {
+            "reference": "b7FLeK78jpDz8fBrM30T",
+            "name": "Douentza"
+        },
+        "geolocationPoint": {
+            "latitude": 15.0003493,
+            "longitude": -2.955007
+        }
+    },
+    {
+        "uid": "9rQ7nDbMefPZuh9sEWek",
+        "description": "Centre de Santé de Référence de Bankass",
+        "name": "CSREF de Bankass",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "wPNLP4QSthjleSucbWfG",
+            "name": "Bankass"
+        },
+        "attachedCity": {
+            "reference": "Pjj3oAEORW7I1TDCv8f9",
+            "name": "Bandiagara"
+        },
+        "geolocationPoint": {
+            "latitude": 14.083355,
+            "longitude": -3.509163
+        }
+    },
+    {
+        "uid": "J58WHmT4i5Gzk5Knqxyh",
+        "description": "Centre de Santé de Référence de Djenné",
+        "name": "CSREF de Djenné",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "MXqe4g6Pt93k8zQisfHn",
+            "name": "Djenné"
+        },
+        "attachedCity": {
+            "reference": "wnk2hz59vAlo2ivlscCN",
+            "name": "Mopti"
+        },
+        "geolocationPoint": {
+            "latitude": 13.905766,
+            "longitude": -4.5572803
+        }
+    },
+    {
+        "uid": "sBLkRUG45qqfe4tkK9Zs",
+        "description": "Centre de Santé de Référence de Tenenkou",
+        "name": "CSREF de Tenenkou",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "ymcT7WiujH9oXHHIUrgH",
+            "name": "Tenenkou"
+        },
+        "attachedCity": {
+            "reference": "wnk2hz59vAlo2ivlscCN",
+            "name": "Mopti"
+        },
+        "geolocationPoint": {
+            "latitude": 14.4543041,
+            "longitude": -4.9183859
+        }
+    },
+    {
+        "uid": "ckWwrPSlTiYG1jFZRuiX",
+        "description": "Centre de Santé de Référence de Kéniéba",
+        "name": "CSREF de Kéniéba",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "4ktjEE524278uqMq28Fw",
+            "name": "Kéniéba"
+        },
+        "attachedCity": {
+            "reference": "QGUuk5nG5axFEVXwrmBo",
+            "name": "Kita"
+        },
+        "geolocationPoint": {
+            "latitude": 12.840009,
+            "longitude": -11.239165
+        }
+    },
+    {
+        "uid": "MG5GmbFJMf6t0vIs8xLS",
+        "description": "Centre de Santé de Référence de Bafoulabé",
+        "name": "CSREF de Bafoulabé",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "W3UbKEqFXwVvAg2Tx1kn",
+            "name": "Bafoulabé"
+        },
+        "attachedCity": {
+            "reference": "ytOj3tiO9p0ZFNKOnGTb",
+            "name": "Kayes"
+        },
+        "geolocationPoint": {
+            "latitude": 13.8034226,
+            "longitude": -10.8322954
+        }
+    },
+    {
+        "uid": "bxN7DvXCu3PbxM1rLIyF",
+        "description": "Centre Hospitalier Universitaire de Gao",
+        "name": "Hopital de Gao",
+        "type": "CHU",
+        "priorityLevel": "HIGH",
+        "location": {
+            "reference": "1YHSjTD93RTxdolGYO3E",
+            "name": "Gao"
+        },
+        "attachedCity": {
+            "reference": "1YHSjTD93RTxdolGYO3E",
+            "name": "Gao"
+        },
+        "geolocationPoint": {
+            "latitude": 16.273205,
+            "longitude": -0.04325274 
+        }
+    },
+    {
+        "uid": "cFpMhkZD0vU1je8d9aE1",
+        "description": "Centre de Santé de Référence de Gao",
+        "name": "CSREF de Gao",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "1YHSjTD93RTxdolGYO3E",
+            "name": "Gao"
+        },
+        "attachedCity": {
+            "reference": "1YHSjTD93RTxdolGYO3E",
+            "name": "Gao"
+        },
+        "geolocationPoint": {
+            "latitude": 16.284801,
+            "longitude":-0.0461066
+        }
+    },
+    {
+        "uid": "3LSw94lpEjF7oFc48E9M",
+        "description": "Centre de Santé de Référence d'Ansongo",
+        "name": "CSREF d'Ansongo",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "ipzFjXaNWnDkC96q1wDD",
+            "name": "Ansongo"
+        },
+        "attachedCity": {
+            "reference": "1YHSjTD93RTxdolGYO3E",
+            "name": "Gao"
+        },
+        "geolocationPoint": {
+            "latitude": 15.6653898,
+            "longitude": 0.501346
+        }
+    },
+    {
+        "uid": "bDNAxxh6VIkPJi3QX8Mj",
+        "description": "Centre de Santé de Référence de Bourem",
+        "name": "CSREF de Bourem",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "v8eK2i5ZInfyruFJsGvK",
+            "name": "Bourem"
+        },
+        "attachedCity": {
+            "reference": "1YHSjTD93RTxdolGYO3E",
+            "name": "Gao"
+        },
+        "geolocationPoint": {
+            "latitude": 16.9533838,
+            "longitude": -0.351143
+        }
+    },
+    {
+        "uid": "FHypVd3dwr9NLPYFKhGd",
+        "description": "Centre de Santé de Référence de Taoudéni",
+        "name": "CSREF de Taoudéni",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "jJi3OX9PAkGnM9twXWNZ",
+            "name": "Taoudéni"
+        },
+        "attachedCity": {
+            "reference": "jJi3OX9PAkGnM9twXWNZ",
+            "name": "Taoudéni"
+        },
+        "geolocationPoint": {
+            "latitude": 18.0833,
+            "longitude": -4.0833
+        }
+    },
+    {
+        "uid": "X3cvaRCVpVVxkjqGzBnd",
+        "description": "Centre de Santé de Référence d'Achouratt",
+        "name": "CSREF  d'Achouratt",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "GJHmRlGSVzEKI8LIR1Ft",
+            "name": "Achouratt"
+        },
+        "attachedCity": {
+            "reference": "jJi3OX9PAkGnM9twXWNZ",
+            "name": "Taoudéni"
+        },
+        "geolocationPoint": {
+            "latitude": 17.6667,
+            "longitude": -3.6667
+        }
+    },
+    {
+        "uid": "M69hfqbhT3SdgRx9e4vU",
+        "description": "Centre de Santé de Référence d'Almoustarat",
+        "name": "CSREF d'Almoustarat",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "LGjuWtuMAEy4oFFBkWoz",
+            "name": "Almoustarat"
+        },
+        "attachedCity": {
+            "reference": "1YHSjTD93RTxdolGYO3E",
+            "name": "Gao"
+        },
+        "geolocationPoint": {
+            "latitude": 19.1667,
+            "longitude": -4.5833
+        }
+    },
+    {
+        "uid": "L6kfynvdVMZ5UfPeW9Tg",
+        "description": "Centre de Santé de Référence de Kidal",
+        "name": "CSREF de Kidal",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "ur7PCoMrGgrlDWYd2hNR",
+            "name": "Kidal"
+        },
+        "attachedCity": {
+            "reference": "ur7PCoMrGgrlDWYd2hNR",
+            "name": "Kidal"
+        },
+        "geolocationPoint": {
+            "latitude": 18.445876,
+            "longitude": 1.4134808
+        }
+    },
+    {
+        "uid": "I7nPV7nf8Twt9ECM9Np6",
+        "description": "Centre de Santé de Référence de Ménaka",
+        "name": "CSREF de Ménaka",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "k7UdPNBtINXAzcrMgUe2",
+            "name": "Ménaka"
+        },
+        "attachedCity": {
+            "reference": "k7UdPNBtINXAzcrMgUe2",
+            "name": "Ménaka"
+        },
+        "geolocationPoint": {
+            "latitude": 15.917119,
+            "longitude": 2.400458
+        }
+    },
+    {
+        "uid": "pGz9pPlnDYe5kxARIwBD",
+        "description": "Centre de Santé de Référence d'Andéramboukane",
+        "name": "CSREF d'Andéramboukane",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "qwDoHNmox7pNZUhHC3i2",
+            "name": "Andéramboukane"
+        },
+        "attachedCity": {
+            "reference": "k7UdPNBtINXAzcrMgUe2",
+            "name": "Ménaka"
+        },
+        "geolocationPoint": {
+            "latitude": 19.349127,
+            "longitude": 1.844725
+        }
+    },
+    {
+        "uid": "MLmZLot8twKgAtMzJA23",
+        "description": "Centre de Santé de Référence de Tessalitt",
+        "name": "CSREF de Tessalitt",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "dkOwWDBAPw0MxGNzsVOR",
+            "name": "Tessalitt"
+        },
+        "attachedCity": {
+            "reference": "ur7PCoMrGgrlDWYd2hNR",
+            "name": "Kidal"
+        },
+        "geolocationPoint": {
+            "latitude": 20.1938,
+            "longitude": 1.0077
+        }
+    },
+    {
+        "uid": "GArDCDKKNeziWzKZzsBr",
+        "description": "Centre de Santé de Référence d'Abeibara",
+        "name": "CSREF de Abeibara",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "4Zua4dBifMsRIFnP2NAh",
+            "name": "Abeibara"
+        },
+        "attachedCity": {
+            "reference": "ur7PCoMrGgrlDWYd2hNR",
+            "name": "Kidal"
+        },
+        "geolocationPoint": {
+            "latitude": 19.34912,
+            "longitude": 1.844733
+        }
+    },
+    {
+        "uid": "ORO4ZZeZE3v8IkwsEcoq",
+        "description": "Centre de Santé de Référence de Goundam",
+        "name": "CSREF de Goundam",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "aFjPvbukuw1Xqfpx26lX",
+            "name": "Goundam"
+        },
+        "attachedCity": {
+            "reference": "BLsUbVFIqlluQCTR9k41",
+            "name": "Tombouctou"
+        },
+        "geolocationPoint": {
+            "latitude": 16.406856,
+            "longitude": -3.653330
+        }
+    },
+    {
+        "uid": "OBwgw3w9VqODaM50Pv7l",
+        "description": "Centre de Santé de Référence de Nara",
+        "name": "CSREF de Nara",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "wdOkJSsbFTMjZEhN6uA4",
+            "name": "Nara"
+        },
+        "attachedCity": {
+            "reference": "wdOkJSsbFTMjZEhN6uA4",
+            "name": "Nara"
+        },
+        "geolocationPoint": {
+            "latitude": 15.1608165,
+            "longitude": -7.2885443
+        }
+    },
+    {
+        "uid": "cdB10Xk7dgvqqtfOQeNm",
+        "description": "Centre de Santé de Référence de Kita",
+        "name": "CSREF de Kita",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "QGUuk5nG5axFEVXwrmBo",
+            "name": "Kita"
+        },
+        "attachedCity": {
+            "reference": "QGUuk5nG5axFEVXwrmBo",
+            "name": "Kita"
+        },
+        "geolocationPoint": {
+            "latitude": 13.022240,
+            "longitude": -9.485664
+        }
+    },
+    {
+        "uid": "3hQWaHm8yBriOy1DswvL",
+        "description": "Centre de Santé de Référence de Dioïla",
+        "name": "CSREF de Dioïla",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "aKTZ0WzXbgJF3xxDC550",
+            "name": "Dioïla"
+        },
+        "attachedCity": {
+            "reference": "aKTZ0WzXbgJF3xxDC550",
+            "name": "Dioïla"
+        },
+        "geolocationPoint": {
+            "latitude": 12.481265,
+            "longitude": -6.7938103
+        }
     }
+
 ]
