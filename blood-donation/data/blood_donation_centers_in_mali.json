@@ -191,10 +191,10 @@
     },
     {
         "uid": "92ghkQUhcEGpe2uWz5WT",
-        "description": "CENTRE HOSPITALIER UNIVERSITAIRE DE KATI",
-        "name": "CHU de Kati",
-        "type": "CHU",
-        "priorityLevel": "HIGH",
+        "description": "Centre Hospitalier Universitaire de KATI",
+        "name": "Hopital de Kati",
+        "type": "EPH",
+        "priorityLevel": "MEDIUM",
         "location": {
             "reference": "CmMqpiBuiExgloOXZI99",
             "name": "Kati"
@@ -210,10 +210,10 @@
     },
     {
         "uid": "4WgZh6KtYq3X5JsDtFnB",
-        "description": "Centre Hospitalier Universitaire de Koulikoro",
+        "description": "Hopital Regional de Koulikoro",
         "name": "Hopital de Koulikoro",
-        "type": "CHU",
-        "priorityLevel": "HIGH",
+        "type": "EPH",
+        "priorityLevel": "MEDIUM",
         "location": {
             "reference": "iBYTSFfjtQIJSECBsVr5",
             "name": "Koulikoro"
@@ -267,10 +267,10 @@
     },
     {
         "uid": "8GhBn5JsDt9Z3fR6TqYp",
-        "description": "Centre Hospitalier Universitaire de Kayes",
-        "name": "CHU de Kayes",
-        "type": "CHU",
-        "priorityLevel": "HIGH",
+        "description": "Hopital Regional de Kayes",
+        "name": "Hopital de Kayes",
+        "type": "EPH",
+        "priorityLevel": "MEDIUM",
         "location": {
             "reference": "ytOj3tiO9p0ZFNKOnGTb",
             "name": "Kayes"
@@ -307,8 +307,8 @@
         "uid": "1FgJm6LsGh9Y2wX5PtZe",
         "description": "HOPITAL Mere Enfant de Koutiala",
         "name": "L'hopital Mere Enfant",
-        "type": "CHU",
-        "priorityLevel": "HIGH",
+        "type": "EPH",
+        "priorityLevel": "MEDIUM",
         "location": {
             "reference": "WlXRvmNpB0Eh9liXfw2G",
             "name": "Koutiala"
@@ -324,7 +324,7 @@
     },
     {
         "uid": "7KdRq3AbWf6Y8hT5JpNs",
-        "description": "CSREF de Koutiala",
+        "description": "Centre de Santé de Référence de Koutiala",
         "name": "CSREF de Koutiala",
         "type": "CSREF",
         "priorityLevel": "MEDIUM",
@@ -343,10 +343,10 @@
     },
     {
         "uid": "6RdQk9HbTa8Z4pY3XmKs",
-        "description": "HOPITAL REGIONAL NIANANKORO FOMBA",
-        "name": "CHU Nianankoro Fomba",
-        "type": "CHU",
-        "priorityLevel": "HIGH",
+        "description": "HOPITAL NIANANKORO FOMBA",
+        "name": "Hopital Nianankoro Fomba",
+        "type": "EPH",
+        "priorityLevel": "MEDIUM",
         "location": {
             "reference": "i4H2o6L1R8rtO56PyHRp",
             "name": "Ségou"
@@ -362,10 +362,10 @@
     },
     {
         "uid": "9DfGh3NaWt5Y7kQ2XmRp",
-        "description": "Centre Hospitalier Universitaire de Ségou",
+        "description": "Hopital Regional de Ségou",
         "name": "Hopital de Segou",
-        "type": "CHU",
-        "priorityLevel": "HIGH",
+        "type": "EPH",
+        "priorityLevel": "MEDIUM",
         "location": {
             "reference": "i4H2o6L1R8rtO56PyHRp",
             "name": "Ségou"
@@ -381,7 +381,7 @@
     },
     {
         "uid": "2BgNy6VaQt7K5dR9TsJm",
-        "description": "CSREF de Ségou",
+        "description": "Centre de Santé de Référence CSREF de Ségou",
         "name": "CSREF de Ségou",
         "type": "CSREF",
         "priorityLevel": "MEDIUM",
@@ -400,9 +400,9 @@
     },
     {
         "uid": "4MdFh7JnVb9Z3mX8QwPt",
-        "description": "Hôpital Sominé Dolo",
-        "name": "Hopital Regional de Mopti",
-        "type": "CHU",
+        "description": "Hopital Regional de Mopti",
+        "name": "Hôpital Sominé Dolo",
+        "type": "EPH",
         "priorityLevel": "MEDIUM",
         "location": {
             "reference": "wnk2hz59vAlo2ivlscCN",
@@ -875,10 +875,10 @@
     },
     {
         "uid": "bxN7DvXCu3PbxM1rLIyF",
-        "description": "Centre Hospitalier Universitaire de Gao",
+        "description": "Hopital Regional de Gao",
         "name": "Hopital de Gao",
-        "type": "CHU",
-        "priorityLevel": "HIGH",
+        "type": "EPH",
+        "priorityLevel": "MEDIUM",
         "location": {
             "reference": "1YHSjTD93RTxdolGYO3E",
             "name": "Gao"
@@ -1175,6 +1175,25 @@
         "geolocationPoint": {
             "latitude": 12.481265,
             "longitude": -6.7938103
+        }
+    },
+    {
+        "uid": "IsSmhygz68B62Equug52",
+        "description": "Hôpital de District de la commune IV",
+        "name": "Hôpital de District de Lafiabougou - PEMU",
+        "type": "CSREF",
+        "priorityLevel": "MEDIUM",
+        "location": {
+            "reference": "Qem9H6FV1mJMeUJDCMAo",
+            "name": "Lafiabougou"
+        },
+        "attachedCity": {
+            "reference": "i2LQwuLVo07No6juvwAq",
+            "name": "Bamako"
+        },
+        "geolocationPoint": {
+            "latitude": 12.63050791,
+            "longitude": -8.04199219
         }
     }
 
